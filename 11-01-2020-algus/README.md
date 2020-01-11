@@ -1,4 +1,3 @@
-
 ## Algus
 _Avaldatud 11.01.2020_
 
@@ -60,23 +59,9 @@ muutuda (kas siis positiivses või negatiivses suunas). Ma väga ei muretse sell
 
 ### Kuidas mu passiivne sissetulek välja näeb?
 
-Minu dividendide jaotus on hetkel selline. Siin ei ole konkreetset aastat, see tabel näitab pigem kuidas dividendide laekumine jaguneb kui firmad seda stabiilselt maksaksid.
+Minu dividendide jaotus on hetkel selline. Siin ei ole konkreetset aastat, see tabel näitab pigem kuidas dividendide laekumine jaguneb kui firmad seda stabiilselt maksaksid. (Tulemusest on juba maha arvestatud 15% USA dividendidelt kinnipeetav tulumaks)
 
-| Ticker          | January | February | March  | April  | May    | June   | July   | August | September | October | November | December | Kogus     |
-|------------------------|---------|----------|--------|--------|--------|--------|--------|--------|-----------|---------|----------|----------|-----------|
-| LTC                    | 0.19    | 0.19     | 0.19   | 0.19   | 0.19   | 0.19   | 0.19   | 0.19   | 0.19      | 0.19    | 0.19     | 0.19     | 108       |
-| MAIN                   | 0.205   | 0.205    | 0.205  | 0.205  | 0.205  | 0.205  | 0.205  | 0.205  | 0.205     | 0.205   | 0.205    | 0.205    | 58        |
-| O                      | 0.2275  | 0.2275   | 0.2275 | 0.2275 | 0.2275 | 0.2275 | 0.2275 | 0.2275 | 0.2275    | 0.2275  | 0.2275   | 0.2275   | 32        |
-| INTC                   |         |          | 0.315  |        |        | 0.315  |        |        | 0.315     |         |          | 0.315    | 59        |
-| NVDA                   |         |          | 0.16   |        |        | 0.16   |        |        | 0.16      |         |          | 0.16     | 6         |
-| LMT                    |         |          | 2.4    |        |        | 2.4    |        |        | 2.4       |         |          | 2.4      | 7         |
-| ED                     |         |          | 0.74   |        |        | 0.74   |        |        | 0.74      |         |          | 0.74     | 20        |
-| ALB                    | 0.37    |          |        | 0.37   |        |        | 0.37   |        |           | 0.37    |          |          | 44        |
-| CB                     | 0.75    |          |        | 0.75   |        |        | 0.75   |        |           | 0.75    |          |          | 14        |
-| PG                     |         | 0.746    |        |        | 0.746  |        |        | 0.746  |           |         | 0.746    |          | 36        |
-| SumProduct             | $66.47  | $66.55   | $90.84 | $66.47 | $66.55 | $90.84 | $66.47 | $66.55 | $90.84    | $66.47  | $66.55   | $90.84   |           |
-| SumProduct -15%        | $56.50  | $56.56   | $77.21 | $56.50 | $56.56 | $77.21 | $56.50 | $56.56 | $77.21    | $56.50  | $56.56   | $77.21   | USD/EUR   |
-| SumProduct -15% to EUR | €50.81  | €50.86   | €69.43 | €50.81 | €50.86 | €69.43 | €50.81 | €50.86 | €69.43    | €50.81  | €50.86   | €69.43   | 0.8992806 |
+![Alt text](./dividendijaotus.svg?sanitize=true)
 
 Keskmiselt teeb see **~57.03€** kuu kohta.
 Mõni firma, nagu MAIN, maksab veel lisaks igakuisele dividendile ka korra poolaastas mingisugust eridividendi. See pole mul veel sisse arvestatud siia tabelisse, aga ilmselt 
