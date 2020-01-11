@@ -5,10 +5,7 @@ _Avaldatud 11.01.2020_
 Uus aasta on alanud igati põnevalt ja pani pingsalt Lähis-Ida jälgima. Aktsiaportfell lõi kergelt kõikuma
 potentsiaalse kolmanda maailmasõja ootuses ja Austraalia ähvardas maha põleda. Ainuke minu omanduses firma, mis armastab teiste õnnetuste üle rõõmu tunda on Lockheed Martin.
 
-Kui ma ühel hommikul talvepimeduses oma silmad avasin, oma võrkkestad heleda ekraaniga põletasin, ja nägin, et Lockheed oli 4% järelturul tõusnud, teadsin ma, et midagi õudset on juhtunud, 
-mida ka kiirelt meediaportaali heidetud pilk kinnitas. Uuele kümnendile start missugune. ( minu jaoks tähistab see muutunud kümnendkoht seal numbris just nimelt kümnendivahetust. 
-Elukutselise programmeerijana tean ma, et esimene number on indekseerimisel tegelikult 0, mitte 1, seega ei suuda keegi mind isegi relva abil ümber veenda, 
-et loendamist alustatakse numbrist üks ). 
+Kui ma ühel hommikul talvepimeduses oma silmad avasin, telefoni vait sundisin, oma võrkkestad heleda ekraaniga põletasin, ja nägin unisena, et Lockheed oli 4% järelturul tõusnud, teadsin ma kohe, et midagi õudset on juhtunud. Iraan oli otsustanud USA karistada. Uuele kümnendile pauguga start, õnneks ei eskaleerunud see edasi. ( minu jaoks tähistab see muutunud kümnendkoht seal aasta 2020 arvus just nimelt kümnendivahetust. Elukutselise programmeerijana tean ma, et esimene number on indekseerimisel tegelikult 0, mitte 1, seega ei suuda keegi mind isegi relva abil ümber veenda, et loendamist alustatakse numbrist üks ). 
 
 See siin on mu esimene sissekanne ja loodetavasti mitte viimane. Ma olen nüüd juba mõned aastad jälginud Eesti finantsblogimaastikku ja mõelnud ka enda nn päeviku pidamisele, aga pole kunagi leidnud seda tõuget, mis mind reaalselt midagi kirja panema ajendaks. See tõuge toimus just paar päeva tagasi - nimelt olen ma dividendidele orienteerunud investor ja minu igakuine higivaba tulu ja selle keskmine ületasid lõpuks kaua oodatud viiekümne euro piiri. See minu jaoks motiveeriv number tõusis lausa viiekümne seitme euroni kui ma lisasin
 juurde LTC aktsiaid New Yorki börsilt. Järgmine eesmärk on keskmiselt kuus teenida passiivselt kena ümmargune 100€.
