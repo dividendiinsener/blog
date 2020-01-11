@@ -61,4 +61,4 @@ ma samuti ei viitsi arvestada, mis potentsiaalselt seda väärtust tõstaksid ku
 
 Sellega olen ma jõudnud esimese sissekande lõpuni. Otsustasin, et ma päris igat teemat kohe esimeses postituses ei puuduta, nii on mõni teine kord veel millestki kirjutada.
 
-
+PS: Kui on tahtmine kommenteerida, siis saab seda teha Github'i konto abil [siin](https://github.com/dividendiinsener/blog/issues/1)
