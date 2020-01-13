@@ -12,7 +12,8 @@ Ostu-müügitehingutasud, valuutavahetustasud, kontohaldustasud, jne - tuleb tut
 
 Investeerimiskontol on lihtne viis kasumi ja kahjumi arvestamiseks ignoreerida praktiliselt kõiki tehinguid ja vaadata ainult sisse tulnud raha, välja võetud raha ning praegust seisu. Kõik ülejäänud tehingud ei oma tähtsust, kuna sisalduvad juba eelmainitud arvudes. (Arvestades, et sul tõesti on investeerimiskonto, mille kaudu sa tavatehinguid ega oste pole teinud.)
 
-1) Arvuta kogu ajaloo laekunud maksete ja väljunud maksete vahe. 
+1) Arvuta kogu ajaloo laekunud maksete ja väljunud maksete vahe. **Laekunud maksete** hulka kuulub sinu isiklik raha, mis on investeerimiskontole kantud, sinna ei kuulu dividendid, ega muu tulu investeerimisest, vaid ainult sinu enda panustatud osa väljaspoolt.
+**Väljunud maksete** hulka kuulub ainult see raha, mis on tagasi makstud sinu enda käsutusse, nn väljavõetud raha. Sinna ei kuulu tehingutasudeks makstud raha, ega muu kulu, ainult sinu enda konto(dele) makstud summad, mille said uuesti endale kasutamiseks.
 Minu puhul näeks see välja nii aastast **2012**:
 ```
 (Kontole laekunud raha) 49113.30 - (Kontolt välja makstud raha) 21697 = 27416.3€
