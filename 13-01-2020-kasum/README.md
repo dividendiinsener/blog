@@ -12,7 +12,7 @@ Ostu-müügitehingutasud, valuutavahetustasud, kontohaldustasud, jne - tuleb tut
 
 Investeerimiskontol on lihtne viis kasumi ja kahjumi arvestamiseks ignoreerida praktiliselt kõiki tehinguid ja vaadata ainult sisse tulnud raha, välja võetud raha ning praegust seisu. Kõik ülejäänud tehingud ei oma tähtsust, kuna sisalduvad juba eelmainitud arvudes. (Arvestades, et sul tõesti on investeerimiskonto, mille kaudu sa tavatehinguid ega oste pole teinud.)
 
-1) Arvuta kogu ajaloo laekunud maksete ja väljunud maksete vahe. **Laekunud maksete** hulka kuulub sinu isiklik raha, mis on investeerimiskontole kantud, sinna ei kuulu dividendid, ega muu tulu investeerimisest, vaid ainult sinu enda panustatud osa väljaspoolt.
+**1)** Arvuta kogu ajaloo laekunud maksete ja väljunud maksete vahe. **Laekunud maksete** hulka kuulub sinu isiklik raha, mis on investeerimiskontole kantud, sinna ei kuulu dividendid, ega muu tulu investeerimisest, vaid ainult sinu enda panustatud osa väljaspoolt.
 **Väljunud maksete** hulka kuulub ainult see raha, mis on tagasi makstud sinu enda käsutusse, nn väljavõetud raha. Sinna ei kuulu tehingutasudeks makstud raha, ega muu kulu, ainult sinu enda konto(dele) makstud summad, mille said uuesti endale kasutamiseks.
 Minu puhul näeks see välja nii aastast **2012**:
 ```
@@ -22,7 +22,7 @@ Minu puhul näeks see välja nii aastast **2012**:
 See number näitab seda kui palju sul oleks raha kui sa poleks kunagi ühtegi tehingut teinud ja oleks lihtsalt raha seisma pannud kontole. Samuti pole sinna lisatud ühtegi intressi ega dividendi. Kui sa kunagi pole raha investeerimiskontolt välja võtnud, siis kontolt välja makstud raha osa peakski olema lihtsalt **0**, ning seega see vahe võrduks kontole sissemakstud summaga. See on sinu nö nulljoon. Kui su konto koguväärtus on alla selle numbri, siis on su investeerimistegevus toonud sulle kahjumit, kui üle selle, siis oled teeninud kasumit.
 
 
-2) Lahuta eelmises punktis arvutatud nulljoon praegusest konto seisust.  
+**2)** Lahuta eelmises punktis arvutatud nulljoon praegusest konto seisust.  
 
 Näiteks minu puhul näeks see välja:
 ```
