@@ -6,15 +6,17 @@ _Avaldatud 13.01.2020_
 ### Avan šampuse! 
 Vaid kaks päeva jõudis mööduda eelmises postituses tehtud ennustusest, kus ma mainisin, et ilmselt olen varsti kokkuvõttes plussis, kui pärast tänast rallit kokkuvõtet tehes pean 
 eufooriaga tõdema, et mu investeerimisteekond on lõppkokkuvõttes läbi aegade arvestuses positiivne. Aktsiaportfell näitab hetkel **27873.03 EUR**.
-Täna on suurimaks tõusjaks olnud mu portfellis Albemarle Corp, mis hetkel näitab rohelist **+4.45%** võrra. Portfell ise on tõusnud **$400**+ võrra täna. 
+Täna on suurimaks tõusjaks olnud mu portfellis Albemarle Corp, mis hetkel näitab rohelist **+4.45%** võrra. Portfell ise on tõusnud **$400**+ võrra täna. Ühtlasi tundub, et olin liiga pessimistlik veel selle suhtes palju mul nulljooneni veel oli jäänud, kahe päevaga päris **1000€** ei tõusnud.
 
 ### Kuidas seda üldse arvutada, kui portfellis on sadu tehinguid, dividendide laekumisi ja teenustasusid?
+
+Ostu-müügitehingutasud, valuutavahetustasud, kontohaldustasud, jne - tuleb tuttav ette?
 
 Investeerimiskontol on selleks lihtne viis ignoreerida praktiliselt kõiki tehinguid ja vaadata ainult sisse tulnud raha, välja võetud raha ning praegust seisu. Kõik ülejäänud 
 tehingud ei oma tähtsust, kuna sisalduvad juba eelmainitud arvudes. (Arvestades, et sul tõesti on investeerimiskonto, mille kaudu sa tavatehinguid ega oste pole teinud.)
 
 1) Arvuta kogu ajaloo laekunud maksete ja väljunud maksete vahe. 
-Minu puhul näeks see välja nii aastast 2012:
+Minu puhul näeks see välja nii aastast **2012**:
 ```
 (Kontole laekunud raha)49113.30 - (Kontolt välja makstud raha)21697 = 27416.3€
 ```
@@ -32,7 +34,7 @@ Näiteks minu puhul näeks see välja:
 27892 - 27416.3 = 475.7€
 ```
 
-Mina saingi nüüd üle pikkade aastate esimest korda näha kontol kasumit, ning lausa 475€ suuruses 
+Mina saingi nüüd üle pikkade aastate esimest korda näha kontol kasumit, ning lausa **475€** suuruses
 
 
 PS: Kui on tahtmine kommenteerida, siis saab seda teha Github'i konto abil [siin](https://github.com/dividendiinsener/blog/issues/2)
