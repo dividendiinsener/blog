@@ -18,7 +18,7 @@ tehingud ei oma tähtsust, kuna sisalduvad juba eelmainitud arvudes. (Arvestades
 1) Arvuta kogu ajaloo laekunud maksete ja väljunud maksete vahe. 
 Minu puhul näeks see välja nii aastast **2012**:
 ```
-(Kontole laekunud raha)49113.30 - (Kontolt välja makstud raha)21697 = 27416.3€
+(Kontole laekunud raha) 49113.30 - (Kontolt välja makstud raha) 21697 = 27416.3€
 ```
 
 See number näitab seda kui palju sul oleks raha kui sa poleks kunagi ühtegi tehingut teinud ja oleks lihtsalt raha seisma pannud kontole. Samuti pole sinna lisatud ühtegi 
@@ -31,7 +31,7 @@ kui üle selle, siis oled teeninud kasumit.
 
 Näiteks minu puhul näeks see välja:
 ```
-27892 - 27416.3 = 475.7€
+(konto väärtus) 27892 - (nulljoon) 27416.3 = 475.7€
 ```
 
 Mina saingi nüüd üle pikkade aastate esimest korda näha kontol kasumit, ning lausa **475€** suuruses
