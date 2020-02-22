@@ -26,7 +26,7 @@ See ei ole probleem, kuna stabiilsete väljamaksete tegemisel tähendab see liht
 Pole ju otsest vahet, kas palgapäev on kümnendal või esimesel kuupäeval.
 
 Üks kvartal jaguneb kolmeks kuuks [(loe siit)](https://www.investopedia.com/terms/q/quarter.asp) ja enamik USA firmadest 
-maksab dividende kolmandas kvartali kuus, aga paljud maksavad ka teises ja esimeses kvartalis.
+maksab dividende kolmandas kvartali kuus, aga paljud maksavad ka teises ja esimeses kvartalikuus.
 
 Eelnevat arvesse võttes on võimalik õigeid aktsiaid valides luua omale igakuine stabiilne sissetulek. Peab lihtsalt
 otsima üles head stabiilsed firmad, mille väljamaksed toimuvad kvartali erinevates kuudes. Selline portfell on võimalik
