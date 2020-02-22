@@ -95,7 +95,7 @@ Miks mitte jagada sama raha, mis muidu kindlustusseltsile läheks, hoopis ära p
 ka üle.
 
 Ütleme, et ma olen 1990. aastal sündinud mees ja just jõudnud pensioniikka, ning mu teine sammas on suutnud kuskil selle 
-sajandi keskpaigaks suureneda näiteks 100000€-ni. Lihtsuse mõttes oletame, et see 100000€ on väärt samapalju kui täna - 
+sajandi keskpaigaks suureneda näiteks **100000€**-ni. Lihtsuse mõttes oletame, et see **100000€** on väärt samapalju kui täna - 
 inflatsiooni mõttes võiksin ju suuremaid numbreid kasutada, aga ei näe selles kontekstis mõtet, lisaks on lihtsam nii 
 tänaseid dividende, kalkulaatoreid ja aktsiahindu kasutada näiteks. 
 
@@ -129,7 +129,7 @@ eest dollariteks. Oletame, et see tasu oli selline **1%** ja mulle jääb kätte
 hajutada erinevate dividendiaktsiate vahel, et erinevad kvartali kuud oleks dividendidega kaetud ja et ühe firma langus 
 ei muutuks sinu enda enda languseks). Coca-Colal on viimasel ajal probleeme olnud, kuna inimesed on muutnud oma 
 käitumisharjumusi tervislikumaks, aga ärme seda selletõttu kohe maha kanna ja näites võib ikka kasutada. Niisiis saan 
-ma tänase hinna järgi *$85908 / $60.13 = 1428* aktsiat. Jätame selle teenustasu siinkohal arvestamata, kuna ka aktsia 
+ma tänase hinna järgi **$85908 / $60.13 = 1428** aktsiat. Jätame selle teenustasu siinkohal arvestamata, kuna ka aktsia 
 hind võib kõikuda ja ühel päeval odavamalt saada kui teisel, niisiis on täiesti realistlik saada praegusel perioodil 
 **1428** aktsiat selle raha eest. Coca-Cola maksab hetkel dividendiks **$0.40** aktsia kohta kvartalis, mis teeb ta dividend yieldiks
 2.73%, mis on täitsa realistlik ja normaalne. See teeb **$0.13** kuus, mis teeb omakorda eurodes **~0.12€** kuus. 
@@ -146,14 +146,14 @@ kümned eurod juurde nõuda, kui tõesti hakkama ei saa (sellest pärast pikemal
 selleks näiteks, aga vast on reaalne summa, mille mõni indeksifondis sammast hoidnud keskmise palgaga tegelane 
 võib kokku ajada selle ajaga. 
  
-Esimese aasta saan ma 145€, järgmine aasta tõstetakse dividendi tagasihoidlikult kuskil **%5** ja igakuine sissetulek on juba
+Esimese aasta saan ma **145€**, järgmine aasta tõstetakse dividendi tagasihoidlikult kuskil **%5** ja igakuine sissetulek on juba
 umbes **152.25€**. See on täiesti reaalne, vaata näiteks $C, $CL, $JNJ dividendide ajalugu. Paljudel juhtudel tundub, et isegi 
 tõstetakse 10% kaupa, aga ma nii julget ennustust ei taha teha pikema perioodi peale. Colgate-Palmolive, näiteks, on viimase 
 kümne aastaga enda dividendid kahekordistanud. Kui vaadelda aastaid 2007-2017, millesse ka kriis jäi, sai **$0.16** 
 väljamaksest kümne aastaga **$0.39**, nagu poleks olnudki kriisi. **~145.65€** suurusest sissetulekust oleks puhtalt 
 Colgate abiga saanud viimase kümne aastaga **~291.3€** sissetulek. Pole paha ju tegelikult. Jah, kümne aastaga saab 65-aastasest 
 ka juba 75-aastane, aga eeldame, et inimesel on siiski ka muu sissetulek peale teise samba ja ta elab ära ka ilma selleta 
-kuidagi. McDonalds (mis veel pole dividendikuningas, aga saab 2022. aastal) on tõstnud oma dividendi **0.55$** 
+kuidagi. McDonalds (mis veel pole dividendikuningas, aga saab **2022.** aastal) on tõstnud oma dividendi **0.55$** 
 pealt **$1.25**, samuti rohkem kui **2x** kasv kümne aastaga.
 
 Okei, aga miks teenida vähem, kui ma saaks kohe kindlustusfirma käest rohkem? No alustada võib juba ka sellest, et vaid
@@ -183,7 +183,7 @@ Lindy effect räägib sellest, et ideed, protsessid ja meetodid, mis ajas on pü
 suureneb iga aastaga. Sellest ka võib arvata, et pikaajalised dividendimaksjad pigem jätkavad maksmist ja oma 
 dividendide suurendamist. 
 
-Riskidest ei tohiks veel eirata valuutariski, sest tegemist on ikkagi võõra maa rahaga, ja samuti geopoliitilise riske, 
+Riskidest ei tohiks veel eirata valuutariski, sest tegemist on ikkagi võõra maa rahaga, ja samuti geopoliitilisi riske, 
 sest USAle väga meeldib sõda pidada ja maailmapolitseid mängida, olles paljudele sihtmärk.   
 
 Jõudeski [musta luige teooriani](https://en.wikipedia.org/wiki/Black_swan_theory). Tuleb arvestada sellega, et vahetevahel toimuvad
