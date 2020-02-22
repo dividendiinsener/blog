@@ -45,7 +45,7 @@ otseselt aktsiahinnast, ega teenitud tulust, kuid reegel on see, et firma, mis t
 lõpuks maksevõimetuks.
 
 Dividendide pikaajaline ajalugu on üks firma tervise indikaatoritest. Kui see on stabiilne või dividendid on ajas tõusnud
-siis on aktsia investoritele atraktiivsem, kui väga volatiilse dividendiajalooga firmadel. Samuti on väga kõrge
+siis on aktsia investoritele atraktiivsem kui väga volatiilse dividendiajalooga firmadel. Samuti on väga kõrge
 dividendimäär pigem ohumärk investoritele, kuna võib viidata firmasisestele probleemidele, näiteks ei ole firmal 
 rahaga võimalik kasvu investeerida, mis näitab seda, et ka aktsiahinnal ei ole ruumi tõusta. normaalne dividendimäär 
 on kuskil **1%** ja **4%** vahel. See protsent on tegelikult suht halb näitaja kuna seda arvutatakse aktsia hinna abil, 
@@ -99,7 +99,7 @@ sajandi keskpaigaks suureneda näiteks **100000€**-ni. Lihtsuse mõttes oletam
 inflatsiooni mõttes võiksin ju suuremaid numbreid kasutada, aga ei näe selles kontekstis mõtet, lisaks on lihtsam nii 
 tänaseid dividende, kalkulaatoreid ja aktsiahindu kasutada näiteks. 
 
-Vaatame millist lisasissetulekut kindlustusseltsid mulle pakuks, kui ma selle raha neile maksaksin ilma garantiiperioodita 
+Vaatame millist lisasissetulekut kindlustusseltsid mulle pakuks kui ma selle raha neile maksaksin ilma garantiiperioodita 
 ja 2055 pensile läheksin 65 aastasena. (Eeldan, et ma elan vähemalt 80 aastaseks ja kavatsen rohkemgi elada. Hei, kui 
 sa sellest vähem kavatsed elada, siis ilmselt on kõige mõistlikum raha välja võtta ja ära laristada.)
 
@@ -142,7 +142,7 @@ dividendidest sisse tulnud raha omale välja maksta kartamata, et maksuamet krae
 
 Okei **~145€** on vähe, aga ilmselt pole see su ainuke sissetulek, sul on veel esimene sammas ja tõenäoliselt on sul veel
 sääste ja rasva, mitte ainult tühjad pihud pensioniikka jõudes. Võibolla isegi on lapsed, kellelt saab alguses mõned 
-kümned eurod juurde nõuda, kui tõesti hakkama ei saa (sellest pärast pikemalt). Näe 100000€ oli võibolla madal valik 
+kümned eurod juurde nõuda kui tõesti hakkama ei saa (sellest pärast pikemalt). Näe 100000€ oli võibolla madal valik 
 selleks näiteks, aga vast on reaalne summa, mille mõni indeksifondis sammast hoidnud keskmise palgaga tegelane 
 võib kokku ajada selle ajaga. 
  
@@ -156,21 +156,21 @@ ka juba 75-aastane, aga eeldame, et inimesel on siiski ka muu sissetulek peale t
 kuidagi. McDonalds (mis veel pole dividendikuningas, aga saab **2022.** aastal) on tõstnud oma dividendi **0.55$** 
 pealt **$1.25**, samuti rohkem kui **2x** kasv kümne aastaga.
 
-Okei, aga miks teenida vähem, kui ma saaks kohe kindlustusfirma käest rohkem? No alustada võib juba ka sellest, et vaid
+Okei, aga miks teenida vähem kui ma saaks kohe kindlustusfirma käest rohkem? No alustada võib juba ka sellest, et vaid
 teise kümnendi **~291.3€** saab (õige investeeringu puhul) järgmise kümne aastaga tunduvalt suurem summa kui 
 kindlustusfirma **463.70€**. Kirsiks tordil on veel see, et su esialgne rahaline investeering aktsiatesse on 
 veel alles, vaatamata sellele, et sa selleks hetkeks juba 20 aastat oled pensionit saanud. Ja kui sa veel pärast esimest
 kümmet aastat aktsiahinda vaatad, siis mõnda vanakooli [blue chip](https://www.investopedia.com/terms/b/bluechip.asp) 
 aktsiasse pandud raha on suure tõenäosusega ka mitmekordistunud. Ehk siis su kontolt vaatab **79200€** asemel vastu 
-ilmselt **158400€** või hoopis näiteks **237600€** (McDonaldsi aktsia on viimase kümne aastaga tõusnud lausa 240%).
+ilmselt **158400€** või hoopis näiteks **237600€** (McDonaldsi aktsia on viimase kümne aastaga tõusnud lausa **240%**).
 
-Kui ma nüüd üks hetk sussid püsti viskan, siis sul on üks meeletu pärandus anda oma järglastele (millest ka eespool
-olev soovitus lastelt raha nõuda alguses, kui muidu hakkama ei saa :)). Sadades tuhandetes
-eurodes aktsiaid ja sisuliselt väike passiivne sissetulek. Kui võrrelda seda, mis kindlustusselts mu järglastele 
-jätaks (mitte midagi, see raha kuulub nüüd neile ja leping loetakse surmaga lõpetatuks), siis on vist päris hea diil. :)
+Kui ma nüüd üks hetk sussid püsti viskan, siis sul on üks meeletu pärandus anda oma järglastele. Sadades tuhandetes
+eurodes aktsiaid ja sisuliselt väike passiivne sissetulek (millest ka eespool olev soovitus lastelt raha nõuda
+alguses kui muidu hakkama ei saa). Kui võrrelda seda, mis kindlustusselts mu järglastele jätaks (mitte midagi, 
+see raha kuulub nüüd neile ja leping loetakse surmaga lõpetatuks), siis on vist päris hea diil. :)
 
 
-### Riskid / Must luik ja Lindy effect
+### Riskid / Must luik ja Lindy efekt
 
 Ilus jutt küll, aga kui see kõik nii lihtne on, siis miks kõik raha nendesse aktsiatesse ei pane ja rikkaks ei saa?
 Eks ta ole nii jah, esiteks, see on puhtalt minevikuandmete järgi spekuleerimine. Ainuke garantii on see, et dividendid
@@ -179,7 +179,7 @@ turumeeleolud, vaid stabiilsed inimesed firma sees ja tahtmine omada seda divide
 et nende dividendiaktsiate hind liigub pikas perspektiivis dividendi maksmise järgi. Kui mõni firma on võtnud omale eesmärgiks
 läbi aastakümnete dividendi kasvatada, siis võib arvata, et turg reguleerib ennast vastavalt ja aktsia hind liigub selle järgi.
 
-Lindy effect räägib sellest, et ideed, protsessid ja meetodid, mis ajas on püsinud, ja mis ajaga ei kulu, nende eeldatav eluiga
+Lindy efekt räägib sellest, et ideed, protsessid ja meetodid, mis ajas on püsinud ja mis ajaga ei kulu, nende eeldatav eluiga
 suureneb iga aastaga. Sellest ka võib arvata, et pikaajalised dividendimaksjad pigem jätkavad maksmist ja oma 
 dividendide suurendamist. 
 
