@@ -1,6 +1,9 @@
 ## Teine sammas - pensionikindlustus vs dividendid
 _Avaldatud 22.02.2020_
 
+
+![Pension](./pension.jpg)
+
 ### Sissejuhatuseks
 
 Pensioni teise samba muudatuste tuulest inpireerituna tuli mul idee jagada alternatiivset viisi pensionikindlustusele kuidas 
@@ -171,6 +174,8 @@ see raha kuulub nüüd neile ja leping loetakse surmaga lõpetatuks), siis on vi
 
 
 ### Riskid / Must luik ja Lindy efekt
+
+![Must luik. Wikipedia](./Black_swan_jan09.jpg)
 
 Ilus jutt küll, aga kui see kõik nii lihtne on, siis miks kõik raha nendesse aktsiatesse ei pane ja rikkaks ei saa?
 Eks ta ole nii jah, esiteks, see on puhtalt minevikuandmete järgi spekuleerimine. Ainuke garantii on see, et dividendid
