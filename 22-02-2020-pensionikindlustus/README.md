@@ -135,15 +135,15 @@ käitumisharjumusi tervislikumaks, aga ärme seda selletõttu kohe maha kanna ja
 ma tänase hinna järgi **$85908 / $60.13 = 1428** aktsiat. Jätame selle teenustasu siinkohal arvestamata, kuna ka aktsia 
 hind võib kõikuda ja ühel päeval odavamalt saada kui teisel, niisiis on täiesti realistlik saada praegusel perioodil 
 **1428** aktsiat selle raha eest. Coca-Cola maksab hetkel dividendiks **$0.40** aktsia kohta kvartalis, mis teeb ta dividend yieldiks
-2.73%, mis on täitsa realistlik ja normaalne. See teeb **$0.13** kuus, mis teeb omakorda eurodes **~0.12€** kuus. 
-Mis annab minu aktsiate kohta **171.36€** kuus sissetulekuks, kust läheb
-veel maha **15%** usa dividendidelt saadud maksu, see tähendab, et investeerimiskontole jõuab ainult **~145.65€** kuus.
+2.73%, mis on täitsa realistlik ja normaalne. See teeb **$0.13** kuus, mis teeb omakorda eurodes **~0.12€**. 
+Mis annab minu aktsiate kohta **171.36€** suuruse sissetuleku, kust läheb
+veel maha **15%** usa dividendidelt saadud maksu. See tähendab, et investeerimiskontole jõuab ainult **~145.65€** kuus.
 Mmm. väheks jääb, võrreldes kindlustuse pakutud **445.3** euroga on see vaid üks kolmandik sellest. Sellele **145€** rakendub
 veel ka tulumaks, aga investeerimiskonto süsteemi kasutades ei tule tulumaksu enne maksta, kui kontolt väljavõetud summa
 hakkab ületama kontole sisse makstud summat, st mu esimesed **80000€** siiski ma midagi juurde ei pea maksma ja võin vabalt 
 dividendidest sisse tulnud raha omale välja maksta kartamata, et maksuamet kraesse lendab.
 
-Okei **~145€** on vähe, aga ilmselt pole see su ainuke sissetulek, sul on veel esimene sammas ja tõenäoliselt on sul veel
+Okei **~145€** on vähe, aga ilmselt pole see mu ainuke sissetulek, mul on veel esimene sammas ja tõenäoliselt on veel
 sääste ja rasva, mitte ainult tühjad pihud pensioniikka jõudes. Võibolla isegi on lapsed, kellelt saab alguses mõned 
 kümned eurod juurde nõuda kui tõesti hakkama ei saa (sellest pärast pikemalt). Näe 100000€ oli võibolla madal valik 
 selleks näiteks, aga vast on reaalne summa, mille mõni indeksifondis sammast hoidnud keskmise palgaga tegelane 
@@ -161,13 +161,13 @@ pealt **$1.25**, samuti rohkem kui **2x** kasv kümne aastaga.
 
 Okei, aga miks teenida vähem kui ma saaks kohe kindlustusfirma käest rohkem? No alustada võib juba ka sellest, et vaid
 teise kümnendi **~291.3€** saab (õige investeeringu puhul) järgmise kümne aastaga tunduvalt suurem summa kui 
-kindlustusfirma **463.70€**. Kirsiks tordil on veel see, et su esialgne rahaline investeering aktsiatesse on 
-veel alles, vaatamata sellele, et sa selleks hetkeks juba 20 aastat oled pensionit saanud. Ja kui sa veel pärast esimest
-kümmet aastat aktsiahinda vaatad, siis mõnda vanakooli [blue chip](https://www.investopedia.com/terms/b/bluechip.asp) 
-aktsiasse pandud raha on suure tõenäosusega ka mitmekordistunud. Ehk siis su kontolt vaatab **79200€** asemel vastu 
+kindlustusfirma **463.70€**. Kirsiks tordil on veel see, et mu esialgne rahaline investeering aktsiatesse on 
+veel alles, vaatamata sellele, et sa selleks hetkeks juba 20 aastat olen pensionit saanud. Ja kui ma veel pärast esimest
+kümmet aastat aktsiahinda vaatan, siis mõnda vanakooli [blue chip](https://www.investopedia.com/terms/b/bluechip.asp) 
+aktsiasse pandud raha on suure tõenäosusega ka mitmekordistunud. Ehk siis mu kontolt vaatab **79200€** asemel vastu 
 ilmselt **158400€** või hoopis näiteks **237600€** (McDonaldsi aktsia on viimase kümne aastaga tõusnud lausa **240%**).
 
-Kui ma nüüd üks hetk sussid püsti viskan, siis sul on üks meeletu pärandus anda oma järglastele. Sadades tuhandetes
+Kui ma nüüd üks hetk sussid püsti viskan, siis mul on üks meeletu pärandus anda oma järglastele. Sadades tuhandetes
 eurodes aktsiaid ja sisuliselt väike passiivne sissetulek (millest ka eespool olev soovitus lastelt raha nõuda
 alguses kui muidu hakkama ei saa). Kui võrrelda seda, mis kindlustusselts mu järglastele jätaks (mitte midagi, 
 see raha kuulub nüüd neile ja leping loetakse surmaga lõpetatuks), siis on vist päris hea diil. :)
