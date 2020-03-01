@@ -3,12 +3,12 @@ _Avaldatud 01.03.2020_
 
 ### Kiire ülevaade
 
-Tänu koroonakartusele kadus mu portfellist eelmine nädal ligikaudu ~5000€. Hämmastavalt suur hulk raha. Olen suutnud 
+Tänu koroonakartusele kadus mu portfellist eelmine nädal ligikaudu **~5000€**. Hämmastavalt suur hulk raha. Olen suutnud 
 rahulikuks jääda, kuigi natuke rõhub küll sees. Igast mõtted tiirlevad, et tagantjärele tarkusena oleks ju ometi võinud
 maha müüa esimesel päeval kui oli selge, et Itaalias suur hulk nakatunuid on, või kui mitte maha müüa, siis osta näiteks 
-mõnda võimendusega ETN-i, mis teiste raha põlemisest tõuseb, näiteks $TVIX. Aga selge see, et mu investeerimismeetod 
+mõnda võimendusega **ETN**-i, mis teiste raha põlemisest tõuseb, näiteks **$TVIX**. Aga selge see, et mu investeerimismeetod 
 tegelikult ei luba müüa, olen ometi dividendiinvestor, seega on mu investeerimisstrateegiasse sisse juba arvestatud, 
-et vahepeal tulevad ka langused ja olen need sunnitud lihtsalt läbi elama. Tegelikult ostsin lausa `$MAIN`'i juurde 
+et vahepeal tulevad ka langused ja olen need sunnitud lihtsalt läbi elama. Tegelikult ostsin lausa **$MAIN**'i juurde 
 keset langust, suurendades oma igakuist sissetulekut, kahjuks küll natuke vara, pärast langes veelgi, aga no mis teha, 
 ahnus sai võitu.
 
