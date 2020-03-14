@@ -31,14 +31,17 @@ keelatud kuni öeldakse teistmoodi ja sisuliselt kogu firma käive läheneb sel 
 taolisest olukorrast, kus käive katkeb klientide vaesumise, kokkuhoiupoliitika jms probleemide tõttu, mis pole üldse nii 
 järsk langus.
 
-Mul hetkel ei ole enda teada ühtegi sellises firmas osalust, mis tegeleks puhtalt meelelahutusega või mis 100% sõltuks klientide
+Mul hetkel ei ole enda teada ühtegi sellises firmas osalust, mis tegeleks puhtalt meelelahutusega või mis **100%** sõltuks klientide
 kohaletulekust või nende liikumisevabadusest, aga kui oleks siis ma ei heidaks siiski meelt ja ei müüks. 
 
 Tuleb meelde tuletada paar olulist punkti, millega tuleb arvestada aktsiatesse investeerides.   
 
 1) Investeerida tohib ainult seda raha, mida oled valmis kaotama. 
-2) Investeerida tohib ainult seda raha, mida sul lähiperspektiivis (ca 10a) pole vaja kasutada.
+
+2) Investeerida tohib ainult seda raha, mida sul lähiperspektiivis **(ca 10a)** pole vaja kasutada.
+
 3) Aktsiaturg on tsükliline ja ükskord tuleb langus niikuinii.
+
 4) Iga järgnev kriis on eelmistest natuke erinev ja ükski raamatutarkus ei ütle täpselt mida teha järgmise kriisi ajal.
 
 Seega tuleb hoiduda paanitsemisest ja mõelda oma investeerimispõhimõtete peale. Raha saab alati juurde teenida ja tegelikult
