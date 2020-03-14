@@ -4,6 +4,7 @@ Tere, mina olen Dividendiinsener. Siin on minu väike blogi, sellest, kuidas ma 
 
 ### Viimased sissekanded
 
+* [14.03.2020 Koroona kui lõpueksam õpitule](./14-03-2020-koroona2)
 * [01.03.2020 Koroona teeb portfellis laastamistööd](./01-03-2020-koroona)
 * [22.02.2020 Teine sammas - pensionikindlustus vs dividendid](./22-02-2020-pensionikindlustus)
 * [13.01.2020 Inseneri aktsiaportfell tõusis veepinnale](./13-01-2020-kasum)
