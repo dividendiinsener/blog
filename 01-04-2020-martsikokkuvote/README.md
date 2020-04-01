@@ -33,7 +33,7 @@ Minu aktsiaportfell on hetkeseisuga sellise iseloomuga (See vaade on nüüd teht
 
 | Kasum | Väärtus |
 | ----- | ------- |
-| -$7,771 | $26714 |
+| -$5,448 | $26714 |
 
 
 ### Kuidas mu passiivne sissetulek välja näeb?
