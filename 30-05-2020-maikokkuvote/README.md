@@ -7,7 +7,7 @@ Mai oli aktsiaturgudel kohati eufooriline ja paljud investorid hakkasid panustam
 Oli ka väga rohelisi päevi, kus ma vahepeal suutsin päevaga oma 1000€ või rohkemgi kaotust 
 tagasi teenida. Olen koroona tekitatud august nüüdseks välja roninud, kuid kasumiga üldse veel mitte nii kõrgele 
 kui enne koroonat. Palju on tunda veel ebakindlust ja ega ei tea, kas sügis on majanduses ikka nii roosiline kui
-investorid loodavad, või tuleb ikka mõneaastane majanduslangus ka lõpuks ära? Kui koroona ei suuda seda tõusutsüklit
+investorid loodavad, või tuleb ikka mõneaastane majanduslangus ka lõpuks ära. Kui koroona ei suuda seda tõusutsüklit
 murda, siis mis veel?
 
 ### Vaatame rahakotti ka?
@@ -32,15 +32,15 @@ Minu aktsiaportfell on tänase kuu lõpu seisuga selline:
 | ----- | ------- |
 | $1,184.29 | $33,225 |
 
-Pole paha! Nagu näha, olen oma praeguste positsioonidega tervelt $1200 plussi jõudnud. Võrdluseks,
+Pole paha! Nagu näha, olen oma praeguste positsioonidega tervelt **$1200** plussi jõudnud. Võrdluseks,
 keset koroonat nägin vahepeal seal [$5400 kahjumit](https://dividendiinsener.github.io/blog/01-04-2020-martsikokkuvote/) 
 ja kohati rohkemgi :). Nagu lubatud - ma ei müünud ühtegi positsiooni keset käesolevat langust, mis tagantjärele vaadates 
 õigustab ennast. Kui päris täpne olla, siis ma ajutiselt mängisin ühe aktsiaga, puhtalt spekuleerimise eesmärgil, 
 kuid ei näidanud seda kordagi oma dividendideaktsiate tabelites ja ostsingi vaid kiirelt müümise eesmärgiga. 
-Realiseerisin sealt kuskil $150 kasumit kahe tehinguga. 
+Realiseerisin sealt kuskil **$150** kasumit kahe tehinguga. 
 
-Siinjuures ei saa ma mainimata jätta oma kolmekümmet $SYY aktsiat, mille ostsin keset kriisi korraliku soodukaga, 
-ja millelt hetkel vaatab vastu juba 41% tõus paari kuuga. $SYY on tugeva taustaga dividendikuningas toidumaailmas ja üks 
+Siinjuures ei saa ma mainimata jätta oma kolmekümmet **$SYY** aktsiat, mille ostsin keset kriisi korraliku soodukaga, 
+ja millelt hetkel vaatab vastu juba **41%** tõus paari kuuga. **$SYY** on tugeva taustaga dividendikuningas toidumaailmas ja üks 
 asi, mida kriis ei suuda täitsa surnuks pureda on toidutööstus.
 
 ### Kuidas mu passiivne sissetulek välja näeb?
