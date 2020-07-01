@@ -4,6 +4,7 @@ Tere, mina olen Dividendiinsener. Siin on minu väike blogi, sellest, kuidas ma 
 
 ### Viimased sissekanded
 
+* [01.07.2020 Juuni kokkuvõte](./01-07-2020-juunikokkuvote/)
 * [30.05.2020 Mai kokkuvõte](./30-05-2020-maikokkuvote/)
 * [01.05.2020 Aprilli kokkuvõte](./01-05-2020-aprillikokkuvote/)
 * [01.04.2020 Märtsi kokkuvõte](./01-04-2020-martsikokkuvote/)
