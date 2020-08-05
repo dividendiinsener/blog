@@ -1,9 +1,11 @@
 ## Welcome to my crib
 
-Tere, mina olen Dividendiinsener. Siin on minu väike blogi, sellest, kuidas ma üritan oma sissetulekut viia aktiivsest passiivseks, et varakult saada kohustustest vabaks ja elada elu natuke mugavamalt.
+Tere, mina olen Dividendiinsener. Siin on minu väike blogi, sellest, kuidas ma üritan oma sissetulekut viia aktiivsest 
+passiivseks, et varakult saada kohustustest vabaks ja elada elu natuke mugavamalt.
 
 ### Viimased sissekanded
 
+* [05.08.2020 Juuli kokkuvõte](./05-08-2020-juulikokkuvote/)
 * [01.07.2020 Juuni kokkuvõte](./01-07-2020-juunikokkuvote/)
 * [30.05.2020 Mai kokkuvõte](./30-05-2020-maikokkuvote/)
 * [01.05.2020 Aprilli kokkuvõte](./01-05-2020-aprillikokkuvote/)
