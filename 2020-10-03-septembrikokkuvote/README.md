@@ -4,21 +4,21 @@ _Avaldatud 03.10.2020_
 ### Kiire ülevaade
 
 Lähenevad USA presidendivalimised ning koroona teine laine on turud kõikuma löönud, nii olen ma see 
-kuu tegelikult $1000 võrra portfelli seisu kokku lüües vaesem kui eelmine kuu. Kuna mul on auto ost plaanis
+kuu tegelikult **$1000** võrra portfelli seisu kokku lüües vaesem kui eelmine kuu. Kuna mul on auto ost plaanis
 lähitulevikus, siis praegu ei jõua portfelli uut raha, vaid naudin lihtsalt igakuist dividende ja jälgin turge.
 
 #### Algab LHV korraldatud Börsihai 2020 mäng
 
 Kui oled veel investeerimises võõras, aga tahaks ilma raha kaotamata "käed õliseks" teha, siis 
-algamas on börsihai 2020. Mäng kestab *02.11.2020 - 20.11.2020* (Registreerimise avamine *19.10.2020*).
+algamas on börsihai **2020**. Mäng kestab **02.11.2020 - 20.11.2020** (Registreerimise avamine **19.10.2020**).
 Praegusel hetkel veel rohkem infot pole, võtsin käesoleva Börsihai facebooki postitusest.
 
 Miks peaksid börsihail osalema? Mäng toimub päris aktsiatega ja päris LHV süsteeme kasutades, kuid mängu rahaga, 
 mis tähendab, et osaledes saad sa ühe vägeva kogemuse omale ja mängu lõpuks tead täpselt kuidas tehnilisest poolest
 aktsiate ostmine ja müümine käib. Seega võta seda kui võimalust omale tasuta koolitus saada.
 
-NB: pea meeles, et reaalselt ei ole võimalik nii lühikese perioodi vältel **investeerida** kui mäng käib, kuna investeerimine
-siiski nõuab pikaaegset osalust firmas. Börsihai kujutab endast rohkem **kauplemist**, mis antud situatsioonis tähendab, 
+NB: pea meeles, et reaalselt ei ole võimalik nii lühikese perioodi vältel *investeerida* kui mäng käib, kuna investeerimine
+siiski nõuab pikaaegset osalust firmas. Börsihai kujutab endast rohkem *kauplemist*, mis antud situatsioonis tähendab, 
 et mängijad loodavad õigetele aktsiatele pihta saada kvartaliaruande esitamise ajal, kus tulevad kõige suuremad üllatused ja seega ka 
 vastav tootlus või kahjum rahasse ümberarvestades. Tavaliselt hoiavad mängijad ühte aktsiat enda portfellis paar päeva. 
 
