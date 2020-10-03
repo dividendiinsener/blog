@@ -51,8 +51,8 @@ laekumine jaguneb kui firmad seda stabiilselt maksaksid. (Tulemusest on juba mah
 
 ![Laekuvad dividendid kuus](./dividendid.svg?sanitize=true)
 
-Keskmiselt teeb see **~84.2€** kuus. Dollar on osa langust tasa teinud ja seega võrreldes eelmise kuuga on  
-eurodesse arvestatuna dividendide sissetulek suurenenud.
+Keskmiselt teeb see **~84.2€** kuus. Dollar on osa langust tasa teinud ja seega võrreldes eelmise kuuga on eurodesse 
+arvestatuna dividendide sissetulek suurenenud.
  
 Mõni firma, nagu MAIN, maksab veel lisaks igakuisele dividendile ka korra poolaastas mingisugust eridividendi. 
 See pole mul veel sisse arvestatud siia tabelisse ja ei teagi, kas ta kriisi ajal midagi nüüd maksab või pigem hoiab 
