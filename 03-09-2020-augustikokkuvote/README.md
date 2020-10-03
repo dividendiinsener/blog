@@ -6,7 +6,7 @@ _Avaldatud 03.09.2020_
 August tõi turgudele tõusu ja mu kahjum muutus kasumiks. Ostsin omale portfelli **$CAT** (Caterpillar) aktsia.
 
 ### Vaatame rahakotti ka?
-Minu aktsiaportfell oli esimese augusti seisuga selline:
+Minu aktsiaportfell oli esimese septembri seisuga selline:
 
 | Ticker | Hind | Ostuhind        | Kogus    | Muutus         | Kasum       | Väärtus    |
 |------|---------|----------------|----------|----------------|-------------|------------|

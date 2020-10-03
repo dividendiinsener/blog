@@ -5,6 +5,7 @@ passiivseks, et varakult saada kohustustest vabaks ja elada elu natuke mugavamal
 
 ### Viimased sissekanded
 
+* [03.10.2020 Septembri kokkuvõte](./2020-10-03-septembrikokkuvote/)
 * [03.09.2020 Augusti kokkuvõte](./03-09-2020-augustikokkuvote/)
 * [05.08.2020 Juuli kokkuvõte](./05-08-2020-juulikokkuvote/)
 * [01.07.2020 Juuni kokkuvõte](./01-07-2020-juunikokkuvote/)
