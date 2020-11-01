@@ -2,8 +2,9 @@
 _Avaldatud 26.09.2020_
 
 New Yorki börs (NYSE) ja Nasdaq on kaks maailma suurimat börsi ja mõlemad need paiknevad maailma finantskeskuses New Yorkis.
-Ameerika pakub tohutult laia aktsiavalikut kuhu ka tavaline eestlane tugitoolis lõsutades investeerida saab.
-Järgnev artikkel üritab natuke valgustada, et mis üldse on vaja teha ja millega arvestada, et investeerida Ameerikasse.
+Ameerika pakub tohutult laia aktsiavalikut kuhu ka tavaline eestlane tugitoolis lõsutades investeerida saab paari nupuvajutusega
+ja kasvõi ühe minuti jooksul. Järgnev artikkel üritab natuke valgustada, et mis üldse on vaja teha ja millega arvestada, 
+et investeerida Ameerikasse.
    
 
 ### Millega peab arvestama USAsse investeerimisel.
@@ -11,9 +12,9 @@ Järgnev artikkel üritab natuke valgustada, et mis üldse on vaja teha ja mille
 #### Ajavahe
 
 Meil on suhteliselt suur ajavahe New Yorkiga ja nende jaoks hommik on meie jaoks juba õhtu.
-New yorki börsid avanevad üldiselt meie ajajärgi kell 16:30 (Mõningate eranditega, kui äsja on toimunud suve või talveajale üleminek).
+New Yorki börsid avanevad üldiselt meie ajajärgi kell 16:30 (Mõningate eranditega, kui äsja on toimunud suve või talveajale üleminek).
 Seega tegelikult on meie jaoks börs avatud kella poole viiest kella üheteistkümneni õhtul. Tavalise eestlase jaoks,
-kes 9st viieni tööd teeb, võib see olla hoopis hea uudis, kuna õhtune aeg võib tehinguteks paremini sobida kui päeval peab
+kes 9st viieni tööd teeb, võib see olla hoopis hea uudis, kuna õhtune aeg võib tehinguteks paremini sobida juhul kui päeval peab
 arvutist eemal olema.  
 
 #### Valuuta
@@ -30,8 +31,7 @@ Pank pakub sulle X dollarit Y euro eest ja näitab tehingu kurssi ka, aga see pa
 tuleb sul endal välja arvutada.
 
 Sellele lisaks tuleb arvestada, et valuutahinnad kõiguvad igapäevaselt. Nii võib juhtuda, et dollari odavnemisel
-kaotad oma protfellis väärtust isegi kui aktsiatega oled plussis või vastupidi. 
-
+kaotad oma protfelliga väärtust isegi kui aktsiatega oled plussis või vastupidi. 
 
 ### Tehingutasud on pisut kõrgemad kui Eestisse investeerides
 
@@ -48,7 +48,10 @@ Selle artikli kirjutamise hetkel (2020-09-27) võtavad pangad USA börsil tehtud
 ### Geopoliitilised riskid
 
 USA näol on tegu võõra maaga ja nii meie kui nende pool on teatud poliitilised riskid. Võib juhtuda, et tehakse otsus, 
-mis mõjutab kahjulikult sinu omandit välismaal (Näiteks USA lisab uued maksud vms, mis sinu portfellist tüki võtab või 
-tootlust vähendab). Teine  
+mis mõjutab kahjulikult sinu omandit välismaal.   
 
- 
+## Millest alustada?
+
+### Investeerimiskonto loomine.
+
+Esiteks on sul vaja investeerimiskontot. Investeerimiskonto on harilik pangakonto selle vahega, et  
