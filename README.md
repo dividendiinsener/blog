@@ -1,10 +1,18 @@
-## Welcome to my crib
+## Hei ho!
 
 Tere, mina olen Dividendiinsener. Siin on minu väike blogi sellest, kuidas ma üritan oma sissetulekut viia aktiivsest
 passiivseks, et varakult saada kohustustest vabaks ja elada elu natuke mugavamalt.
 
+Minu eesmärk on omale luua omale välismaistest, peamiselt Ameerika dividendiaktsiatest, passiivne sissetulek, mis võimaldaks mul 
+palgatööst loobuda ja varakult pensionile minna, pumbates samalajal Eesti majandusse välismaist raha. 
+
+Järgnev nimekiri on sisuliselt päevik minu teekonnast. Sissekanded ja nendes mainitud tehingud ei ole soovitusliku 
+iseloomuga - ei mina, ega keegi teine ei suuda garanteerida, et mu valikud mulle pikas perspektiivis edu toovad. Need
+on siia kirja pandud eesmärgiga jagada mõtteid ja ei ole järgimiseks.    
+
 ### Viimased sissekanded
 
+* [01.11.2020 Oktoobri kokkuvõte](./2020-11-01-oktoobrikokkuvote/)
 * [03.10.2020 Septembri kokkuvõte](./2020-10-03-septembrikokkuvote/)
 * [03.09.2020 Augusti kokkuvõte](./03-09-2020-augustikokkuvote/)
 * [05.08.2020 Juuli kokkuvõte](./05-08-2020-juulikokkuvote/)
