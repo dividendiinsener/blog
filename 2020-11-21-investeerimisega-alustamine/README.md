@@ -69,9 +69,9 @@ Antud tabel on vaid näitlik lihtsustus, tegelikud tingimused võivad tabelist e
 ### Geopoliitilised riskid
 
 USA näol on tegu võõra maaga ja nii meie kui nende pool on teatud poliitilised ja majanduslikud riskid. Võib juhtuda, 
-et mõni otsus mõjutab kahjulikult sinu omandit või sissetulekut välismaal (Näiteks võib ühel hetkel muutuda mõni maksumäär).
-Seda vast ette ei suuda keegi näha, mis täpselt muutuda võib, aga tasub lihtsalt meeles pidada, et välismaine omand 
-või sissetulek võib olla rohkematele riskidele avatud kui kodumaine omand või sissetulek.      
+et mõni otsus mõjutab kahjulikult sinu omandit või sissetulekut välismaal. Seda vast ei suuda keegi ette näha, 
+mis täpselt muutuda võib, aga tasub lihtsalt meeles pidada, et välismaine omand või sissetulek võib olla 
+rohkematele riskidele avatud kui kodumaine omand või sissetulek.      
 
 ## Millest alustada?
 
@@ -96,6 +96,9 @@ Blanketi näite võid leida [siit](https://www.lhv.ee/assets/files/forms/W-8BEN_
 
 Pärast sobiva panga leidmist on sul vaja investeerimiskontot. Investeerimiskonto on harilik pangakonto selle vahega, et sinna sisse maksad 
 sa ainult investeerimiseks / hoiustamiseks mõeldud raha ja sealt kontolt muid makseid peale investeerimistehingute ei tee.
+Seega selleks, et oma eurod kulutamiseks kätte saada, tuleb investeerimiskontolt teha ülekanne tavalisele pangakontole.
+Niisugused piirangud investeerimiskontol on loodud selleks, et sul lõpuks oleks tuludeklaratsiooni esitamine võimalikult 
+lihtne ja ei peaks tegema mingeid keerulisi arvutusi, et oma investeerimiskäigud eraldada igapäevastest tegemistest.
 
 Investeerimiskonto lubab sul teenitud tulult jätta maksud maksmata, kuni otsustad raha välja võtta. Ametlikult nimetatakse
 seda maksukohustuse edasilükkamiseks. Sisuliselt toimib see nii, et kui maksad investeerimiskontole näiteks **10000€** sisse, 
@@ -109,10 +112,6 @@ kuna ta ilmselt ei kavatse rohkem raha välja võtta kui on sisse pannud vähema
 
 Investeerimiskonto on Eesti seaduses ametlikult määratletud. Sellest võid rohkem lugeda näiteks 
 [maksuameti kodulehelt](https://www.emta.ee/et/eraklient/tulu-deklareerimine/finantsvaralt-saadud-tulu-maksustamine)
-
-Seega selleks, et oma eurod kulutamiseks kätte saada, tuleb investeerimiskontolt teha ülekanne tavalisele pangakontole.
-Niisugused piirangud investeerimiskontol on loodud selleks, et sul lõpuks oleks tuludeklaratsiooni esitamine võimalikult 
-lihtne ja ei peaks tegema mingeid keerulisi arvutusi, et oma investeerimiskäigud eraldada igapäevastest tegemistest.
 
 Tänapäeval on võimalik pangakonto ka luua kodust läbi internetipanga, kuid konkreetne tegevuskäik sõltub ilmselt pangast.
 
@@ -252,7 +251,7 @@ makstakse siis tulumaks kunagi hiljem kui see raha lahkub investeerimiskontolt.
 
 -------
 
-Saigi selleks korraks artikkel valmis. Loodan, et on kasu ka ja annab mõnele huvitunule aimu, mida kujutab endast
+Saigi selleks korraks artikkel valmis. Loodan, et on kasu ka ja annab mõnele huvitunule aimu mida kujutab endast
 USA aktsiatesse investeerimine. 
 
 PS: Kui on väga tahtmist kommenteerida, siis saab seda teha Github'i konto abil [siin](https://github.com/dividendiinsener/blog/issues/14)
