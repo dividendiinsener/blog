@@ -4,7 +4,7 @@ _Avaldatud 21.11.2020_
 New Yorki börs (**NYSE**) ja **NASDAQ** on kaks maailma suurimat börsi, mis paiknevad maailma finantskeskuses New Yorkis.
 Ameerika pakub tohutult laia aktsiavalikut kuhu ka tavaline eestlane tugitoolis lõsutades investeerida saab paari nupuvajutusega
 ja kasvõi ühe minuti jooksul. Järgnev artikkel üritab natuke valgustada, et mis üldse on vaja teha ja millega arvestada, 
-et investeerida Ameerikasse. Artikkel ei ürita selgitada investeerimisstrateegiaid või anda nõu milliseid aktsiaid osta.
+kui investeerida Ameerikasse. Artikkel ei ürita selgitada investeerimisstrateegiaid või anda nõu milliseid aktsiaid osta.
    
 ### Miks üldse Ameerikasse investeerida?
 
@@ -24,9 +24,9 @@ McDonaldsist.
 #### Ajatsoon ja lahtiolekuajad
 
 Meil on suhteliselt suur ajavahe New Yorkiga ja nende jaoks hommik on meie jaoks juba õhtu.
-New Yorki börsid avanevad üldiselt meie ajajärgi kell 16:30 (Mõningate eranditega, kui äsja on toimunud suve või talveajale üleminek).
+New Yorki börsid avanevad üldiselt meie ajajärgi kell **16:30** (Mõningate eranditega, kui äsja on toimunud suve või talveajale üleminek).
 Seega tegelikult on meie jaoks börs avatud kella poole viiest kella üheteistkümneni õhtul. Tavalise eestlase jaoks,
-kes 9st viieni tööd teeb, võib see olla hoopis hea uudis, kuna õhtune aeg võib tehinguteks paremini sobida juhul kui 
+kes üheksast viieni tööd teeb, võib see olla hoopis hea uudis, kuna õhtune aeg võib tehinguteks paremini sobida juhul kui 
 hommikul ja päeval peab arvutist eemal olema.  
 
 USA turud on lahti nädalasisestel päevadel ja kinni nädalavahetustel ning USA riigipühadel. Kinnioleku päevad võib leida, 
@@ -56,7 +56,7 @@ aktsiaid ostes.
 
 Selle artikli kirjutamise hetkel (2020-11-21) võtavad pangad USA börsil tehtud tehingu eest järgmist tasu: 
 
-| PANK | Tehingu tasu | haldustasu (Kuni 30000 € portfell)  | Tehingu tühistamine (enne täideviimist) |
+| PANK | Tehingu tasu | haldustasu (Kuni **30000 €** portfell)  | Tehingu tühistamine (enne täideviimist) |
 | ---- | ------------ | ----------- | ---------- |
 | [LHV](https://www.lhv.ee/et/hinnakiri)                                         | 11 € + 0,3%     | 0,025% kuus, min 2 €, lisandub käibemaks | Tasuta |
 | [Swedbank](https://www.swedbank.ee/private/home/more/pricesrates?language=EST) | 0,18%, min 18 € | tasuta                                   | Tehingutasu |
@@ -79,12 +79,12 @@ Vali omale madalate tasudega sobiv pank, ning pea meeles valides kontrollida ka 
 
 #### Residentsustõend W-8BEN
 
-Peaksid tegema kindlaks, kas sinu valitud pank toetab W-8BEN residentsustõendi esitamist USA-sse. W-8BEN on maksublankett, 
+Peaksid tegema kindlaks, kas sinu valitud pank toetab **W-8BEN** residentsustõendi esitamist USA-sse. **W-8BEN** on maksublankett, 
 mis aitab sul vältida USAst tuleva sissetuleku topeltmaksustamist. Sisuliselt tähendab see seda, et kui investeerida ilma
-W-8BEN'ita, siis kõikide USA börsil olevate firmade dividendidelt peetakse kinni 30% enne kui need sinuni jõuavad.
-Kui aga W-8BEN täita, siis peetakse kinni vaid 15%. Selline süsteem on loodud USA ja teiste maade (sh Eesti) vahelise 
-kokkuleppena. Blanketi täitmine on iseenesest lihtne ja tõendab vaid kokkuvõttes seda, et elad Eestis. W-8BEN'i on vaja 
-uuendada iga 3 aasta tagant. Minuteada on antud lepingu esitamine eraisikust investorile tasuta.
+**W-8BEN**'ita, siis kõikide USA börsil olevate firmade dividendidelt peetakse kinni 30% enne kui need sinuni jõuavad.
+Kui aga **W-8BEN** täita, siis peetakse kinni vaid **15%**. Selline süsteem on loodud USA ja teiste maade (sh Eesti) vahelise 
+kokkuleppena. Blanketi täitmine on iseenesest lihtne ja tõendab vaid kokkuvõttes seda, et elad Eestis. **W-8BEN**'i on vaja 
+uuendada iga **3** aasta tagant. Minuteada on antud lepingu esitamine eraisikust investorile tasuta.
 
 Blanketi näite võid leida [siit](https://www.lhv.ee/assets/files/forms/W-8BEN_form_example-ET.pdf)
 
@@ -154,12 +154,12 @@ väärtuses **aktsia hind** x **aktsia kogus** + **tehingutasud**.
 
 ##### Mida üldse aktsia hind näitab?
 
-Kui Googlesse kirjutada $AAPL siis leiab sealt Apple aktsiahinna tänase graafiku ja mingi lõpliku hinna, näiteks **117.34** USD. 
+Kui Googlesse kirjutada **$AAPL** siis leiab sealt Apple aktsiahinna tänase graafiku ja mingi lõpliku hinna, näiteks **117.34** USD. 
 Mida see hind siis näitab? Tegemist on viimase õnnestunud tehingu hinnaga. See ei tähenda seda, et sa saad praegusel
 hetkel selle hinnaga osta või müüa, vaid see näitab puhtalt viimast tehingut. See on umbes sama nagu möödunud kuu Tallinna korterite 
 tehingute hinnastatistika. Näitab, mis turul tehti ja annab aimu, mis hinnad turul on, aga ei näita saadaolevaid kortereid.
 
-Reaalselt, aga on NYSE turg nii "paks", ja seal on nii palju osalejaid, et selle viimase näidatud hinna tehingu limiidina 
+Reaalselt, aga on **NYSE** turg nii "paks" ja seal on nii palju osalejaid, et selle viimase näidatud hinna tehingu limiidina 
 kasutades võid vabalt oma tehingu tehtud saada päeva jooksul.  
 
 ##### Turuhinnaga tehing
