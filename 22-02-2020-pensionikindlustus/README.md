@@ -138,10 +138,8 @@ hind võib kõikuda ja ühel päeval odavamalt saada kui teisel, niisiis on täi
 2.73%, mis on täitsa realistlik ja normaalne. See teeb **$0.13** kuus, mis teeb omakorda eurodes **~0.12€**. 
 Mis annab minu aktsiate kohta **171.36€** suuruse sissetuleku, kust läheb
 veel maha **15%** usa dividendidelt saadud maksu. See tähendab, et investeerimiskontole jõuab ainult **~145.65€** kuus.
-Mmm. väheks jääb, võrreldes kindlustuse pakutud **445.3** euroga on see vaid üks kolmandik sellest. Sellele **145€** rakendub
-veel ka tulumaks, aga investeerimiskonto süsteemi kasutades ei tule tulumaksu enne maksta, kui kontolt väljavõetud summa
-hakkab ületama kontole sisse makstud summat, st mu esimesed **80000€** siiski ma midagi juurde ei pea maksma ja võin vabalt 
-dividendidest sisse tulnud raha omale välja maksta kartamata, et maksuamet kraesse lendab.
+Mmm. väheks jääb, võrreldes kindlustuse pakutud **445.3** euroga on see vaid üks kolmandik sellest. Sellele **145€** aga 
+ei rakendu rohkem tulumaksu kui juba makstud **15%**.
 
 Okei **~145€** on vähe, aga ilmselt pole see mu ainuke sissetulek, mul on veel esimene sammas ja tõenäoliselt on veel
 sääste ja rasva, mitte ainult tühjad pihud pensioniikka jõudes. Võibolla isegi on lapsed, kellelt saab alguses mõned 
@@ -149,14 +147,14 @@ kümned eurod juurde nõuda kui tõesti hakkama ei saa (sellest pärast pikemalt
 selleks näiteks, aga vast on reaalne summa, mille mõni indeksifondis sammast hoidnud keskmise palgaga tegelane 
 võib kokku ajada selle ajaga. 
  
-Esimese aasta saan ma **145€**, järgmine aasta tõstetakse dividendi tagasihoidlikult kuskil **%5** ja igakuine sissetulek on juba
+Esimese aasta saan ma **145€**, järgmine aasta tõstetakse dividendi tagasihoidlikult kuskil **5%** ja igakuine sissetulek on juba
 umbes **152.25€**. See on täiesti reaalne, vaata näiteks $C, $CL, $JNJ dividendide ajalugu. Paljudel juhtudel tundub, et isegi 
 tõstetakse 10% kaupa, aga ma nii julget ennustust ei taha teha pikema perioodi peale. Colgate-Palmolive, näiteks, on viimase 
 kümne aastaga enda dividendid kahekordistanud. Kui vaadelda aastaid 2007-2017, millesse ka kriis jäi, sai **$0.16** 
 väljamaksest kümne aastaga **$0.39**, nagu poleks olnudki kriisi. **~145.65€** suurusest sissetulekust oleks puhtalt 
 Colgate abiga saanud viimase kümne aastaga **~291.3€** sissetulek. Pole paha ju tegelikult. Jah, kümne aastaga saab 65-aastasest 
 ka juba 75-aastane, aga eeldame, et inimesel on siiski ka muu sissetulek peale teise samba ja ta elab ära ka ilma selleta 
-kuidagi. McDonalds (mis veel pole dividendikuningas, aga saab **2022.** aastal) on tõstnud oma dividendi **0.55$** 
+kuidagi. McDonalds (mis veel pole dividendikuningas, aga saab **2022.** aastal) on tõstnud oma dividendi **$0.55** 
 pealt **$1.25**, samuti rohkem kui **2x** kasv kümne aastaga.
 
 Okei, aga miks teenida vähem kui ma saaks kohe kindlustusfirma käest rohkem? No alustada võib juba ka sellest, et vaid
@@ -199,3 +197,6 @@ meeldib väga kõiki analüütikuid lollideks nimetada, sest kõik nende mudelid
 dividendikuningad ühel hetkel maksmise, miski pole võimatu.
 
 PS: Kui on tahtmine kommenteerida, siis saab seda teha Github'i konto abil [siin](https://github.com/dividendiinsener/blog/issues/3)
+
+##### Muudatused:
+* 2020.11.21 tehtud parandus tulumaksu maksmise kohta dividendidelt. (Kaotatud dividendide topeltmaksustamise osa)
