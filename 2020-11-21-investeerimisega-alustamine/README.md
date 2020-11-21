@@ -177,8 +177,8 @@ Limiithinnaga tehing tähendab, et sa paned orderi mingi kindla aktsiasumma peal
 Ostu puhul tähendab see seda, et kui keegi pakub oma aktsiaid madalama hinnaga kui sinu määratud limiit, siis sul 
 tekib võimalus need ära osta. Kui piisavalt suurt pakkumist pole, siis võib ka juhtuda, 
 et keegi teine ostab need ära ja kuigi aktsiahind käis korraks allpool sinu pandud limiiti, siis ei olnud ikkagi 
-võimalik tehingut täita. Müügi puhul tähendab limiit kõige kõrgemat hinda, mida sa aktsia kohta oled nõus maksma, 
-võid ka saada odavamalt kätte, kui turul on pakkumine.
+võimalik tehingut täita. Müügi puhul tähendab limiit kõige kõrgemat hinda, mida sa aktsia kohta oled nõus maksma. 
+Võid ka saada odavamalt kätte, kui turul on pakkumine ja surve hinnaalanduseks.
 
 Tegelik aktsiaturu tehingute kokkusobitamine turu sisemuses on väga keeruline teema, millest ma pikemalt ei räägiks, kuid
 sellest võid lähemalt lugeda huvi korral [siit](https://www.investopedia.com/ask/answers/06/brokerandmarketmaker.asp).
