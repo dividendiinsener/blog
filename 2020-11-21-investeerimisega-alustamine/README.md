@@ -1,7 +1,7 @@
 ## Eraisikuna investeerimisega alustamine - kuidas investeerida USA börsil
 _Avaldatud 21.11.2020_
 
-New Yorki börs (NYSE) ja NASDAQ on kaks maailma suurimat börsi, mis paiknevad maailma finantskeskuses New Yorkis.
+New Yorki börs (**NYSE**) ja **NASDAQ** on kaks maailma suurimat börsi, mis paiknevad maailma finantskeskuses New Yorkis.
 Ameerika pakub tohutult laia aktsiavalikut kuhu ka tavaline eestlane tugitoolis lõsutades investeerida saab paari nupuvajutusega
 ja kasvõi ühe minuti jooksul. Järgnev artikkel üritab natuke valgustada, et mis üldse on vaja teha ja millega arvestada, 
 et investeerida Ameerikasse. Artikkel ei ürita selgitada investeerimisstrateegiaid või anda nõu milliseid aktsiaid osta.
