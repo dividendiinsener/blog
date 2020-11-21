@@ -171,7 +171,7 @@ alguses kui muidu hakkama ei saa). Kui v천rrelda seda, mis kindlustusselts mu j�
 see raha kuulub n체체d neile ja leping loetakse surmaga l천petatuks), siis on vist p채ris hea diil. :)
 
 
-### Riskid / Must luik ja Lindy efekt
+### Riskid / Must luik
 
 ![Must luik. Wikipedia](./Black_swan_jan09.jpg)
 
