@@ -182,12 +182,7 @@ turumeeleolud, vaid stabiilsed inimesed firma sees ja tahtmine omada seda divide
 et nende dividendiaktsiate hind liigub pikas perspektiivis dividendi maksmise järgi. Kui mõni firma on võtnud omale eesmärgiks
 läbi aastakümnete dividendi kasvatada, siis võib arvata, et turg reguleerib ennast vastavalt ja aktsia hind liigub selle järgi.
 
-Lindy efekt räägib sellest, et ideed, protsessid ja meetodid, mis ajas on püsinud ja mis ajaga ei kulu, nende eeldatav eluiga
-suureneb iga aastaga. Sellest ka võib arvata, et pikaajalised dividendimaksjad pigem jätkavad maksmist ja oma 
-dividendide suurendamist. 
-
-Riskidest ei tohiks veel eirata valuutariski, sest tegemist on ikkagi võõra maa rahaga, ja samuti geopoliitilisi riske, 
-sest USAle väga meeldib sõda pidada ja maailmapolitseid mängida, olles paljudele sihtmärk.   
+Riskidest ei tohiks veel eirata valuutariski, sest tegemist on ikkagi võõra maa rahaga.  
 
 Jõudeski [musta luige teooriani](https://en.wikipedia.org/wiki/Black_swan_theory). Tuleb arvestada sellega, et vahetevahel toimuvad
 maailmas enneolematud sündmused, mida ükski mudel ja ennustus ette ei näe ja mis kõik pahupidi pööravad. Nassim Taleb-ile
@@ -199,4 +194,4 @@ dividendikuningad ühel hetkel maksmise, miski pole võimatu.
 PS: Kui on tahtmine kommenteerida, siis saab seda teha Github'i konto abil [siin](https://github.com/dividendiinsener/blog/issues/3)
 
 ##### Muudatused:
-* 2020.11.21 tehtud parandus tulumaksu maksmise kohta dividendidelt. (Kaotatud dividendide topeltmaksustamise osa)
+* 2020.11.21 tehtud parandus tulumaksu maksmise kohta dividendidelt. (Kaotatud dividendide topeltmaksustamise osa) Kaotatud Lindy efekti osa.
