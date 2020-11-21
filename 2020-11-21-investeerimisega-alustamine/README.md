@@ -61,6 +61,7 @@ Selle artikli kirjutamise hetkel (2020-11-21) võtavad pangad USA börsil tehtud
 | [LHV](https://www.lhv.ee/et/hinnakiri)                                         | 11 € + 0,3%     | 0,025% kuus, min 2 €, lisandub käibemaks | Tasuta |
 | [Swedbank](https://www.swedbank.ee/private/home/more/pricesrates?language=EST) | 0,18%, min 18 € | tasuta                                   | Tehingutasu |
 | [SEB](https://www.seb.ee/hinnakiri)                                            | 14 € + 0,2% (0,015%) | 0,015% kuus                         | min arveldustasu või tegelikud kulud |
+
 Antud tabel on vaid näitlik lihtsustus, tegelikud tingimused võivad tabelist erineda või ajajooksul muutuda.
 
 ### Geopoliitilised riskid
