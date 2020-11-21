@@ -202,16 +202,16 @@ täita ilma kliendi seatud piiranguteta (v.a ta kontol oleva raha piirang).
 
 #### Praktiline näide:
 
-Soovid osta Apple Inc aktsiaid ja sul on 2000€ selleks kontol. Esiteks arvutad oma kontol oleva raha panga kursi 
-järgi dollariteks. Ilmselt sa ei pea neid käsitsi vahetama, vaid pank teeb selle lõpuks automaatselt tehingu ajal.
-Mina saan hetkekursi järgi ~$2371.33.
+Soovin osta Apple Inc aktsiaid ja mul on **2000€** selleks kontol. Esiteks arvutan oma kontol oleva raha panga kursi 
+järgi dollariteks. Ilmselt ei pea neid käsitsi vahetama, vaid pank teeb selle lõpuks automaatselt tehingu ajal.
+Mina saan hetkekursi järgi **~$2371.33**.
 
 Nüüd otsin ma Apple'i *ticker*-i USA turul. Kiire googeldamine annab vastuseks **AAPL** ja börsiks NASDAQ.  
 
 Seejärel sisestan ma Googlesse **$AAPL** ja saan sealt, et hetkel on viimase tehingu hind **$117.34** aktsia kohta.
 
 Järgmisena tahan teada mitu aktsiat ma osta saan oma raha eest. Lihtne arvutus näitab, et **2371.33 / 117.34 = 20.2**
-Seega saan ma **20 aktsiat**. Kuna poolikuid aktsiaid ma osta ei saa, siis see *0.2* aktsiat on lihtsalt jääk, mis ilmselt 
+Seega saan ma **20 aktsiat**. Kuna poolikuid aktsiaid ma osta ei saa, siis see **0.2** aktsiat on lihtsalt jääk, mis ilmselt 
 kulub mul ära tehingutasudeks.
  
 Täidangi järgmiseks ära panga poolt presenteeritud lahtrid:
@@ -231,8 +231,8 @@ aktsiate arvu vähemaks tõmmata või aktsia hinda allapoole viia pisut (lootes,
 
 ### Tuludeklaratsiooni esitamine
 Uue aasta alguses, kui toimub tuludeklaratsiooni esitamine, on sul vaja ka oma investeerimiskonto deklareerida.
-Pank peaks lubama esitada sinu investeerimiskonto EMTA-le (Eesti maksu ja tolliametile) automaatselt, st ilma, et 
-sa peaks hakkama käsitsi EMTA lehel numbreid sisestama. Selleks on panga lehel ilmselt mõni funktsioon.
+Pank peaks lubama esitada sinu investeerimiskonto **EMTA**-le (Eesti maksu ja tolliametile) automaatselt, st ilma, et 
+sa peaks hakkama käsitsi **EMTA** lehel numbreid sisestama. Selleks on panga lehel ilmselt mõni funktsioon.
 
 Maksudeklaratsioonis peaksid nägema oma sissekantud ja väljakantud raha investeerimiskontolt. 
 Tuludeklaratsiooni sektsioon, kuhu antud andmed saabuvad kannab nime "Tulu finantsvaralt". 
