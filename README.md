@@ -1,6 +1,6 @@
-## Hei ho!
+## Tervitus!
 
-Tere, mina olen Dividendiinsener. Siin on minu väike blogi sellest, kuidas ma üritan oma sissetulekut viia aktiivsest
+Mina olen Dividendiinsener. Siin on minu väike blogi sellest, kuidas ma üritan oma sissetulekut viia aktiivsest
 passiivseks, et varakult saada kohustustest vabaks ja elada elu natuke mugavamalt.
 
 Minu eesmärk on omale luua omale välismaistest, peamiselt Ameerika dividendiaktsiatest, passiivne sissetulek, mis võimaldaks mul 
