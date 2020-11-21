@@ -3,10 +3,10 @@ _Avaldatud 21.11.2020_
 
 ![Stock market](./stock-market.jpg) 
 
-New Yorki börs (**NYSE**) ja **NASDAQ** on kaks maailma suurimat börsi, mis paiknevad maailma finantskeskuses New Yorkis.
-Ameerika pakub tohutult laia aktsiavalikut kuhu ka tavaline eestlane tugitoolis lõsutades investeerida saab paari nupuvajutusega
-ja kasvõi ühe minuti jooksul. Järgnev artikkel üritab natuke valgustada, et mis üldse on vaja teha ja millega arvestada, 
-kui investeerida Ameerikasse. Artikkel ei ürita selgitada investeerimisstrateegiaid või anda nõu milliseid aktsiaid osta.
+New Yorki börs (**NYSE**) ja **NASDAQ** on kaks maailma suurimat börsi, mis paiknevad New Yorki finantsrajoonis.
+Ameerika pakub tohutult laia aktsiavalikut kuhu ka tavaline eestlane tugitoolis lõsutades investeerida saab 
+paari nupuvajutusega. Järgnev artikkel üritab natuke valgustada, et mis üldse on vaja teha ja millega arvestada 
+investeerides Ameerikasse. Artikkel ei ürita selgitada investeerimisstrateegiaid või anda nõu milliseid aktsiaid osta.
    
 ### Miks üldse Ameerikasse investeerida?
 
@@ -15,11 +15,11 @@ ettevõtjaid. See kompott toimib seal nagu ahelreaktsioon, mis iseennast koguaeg
 äri, raha ja ajusid sealt kaudu liigub ja sinna koguneb, seda rohkem meelitab see uut raha, äri ja ajusid. Võib öelda, 
 et seal toimub üks pikk kapitalistlik pidu. Nii on ka paljud läänemaailma suured firmad esindatud USA turul.
 
-NYSE ja Nasdaq kahepeale pakuvad umbes **5700** firmat kuhu investeerida. Balti börs pakub seejuures umbes **68**.
+NYSE ja Nasdaq kahepeale pakuvad umbes **5700** firmat kuhu investeerida. Balti börs pakub aga ainult umbes **68** firmat.
 
-Ühele tavalisele Eesti investorile pakub see suurt valikut firmasid ja eelkõige meie jaoks tuntud nimesid. Firmasid, 
-mille toodangut me ise igapäevaselt kasutame ja imetleme. Hea tunne on ju mõelda, et omad osa Apple-st, Teslast või
-McDonaldsist. 
+Ühele tavalisele Eesti investorile pakub USA suurt valikut firmasid ja eelkõige meie jaoks tuntud välismaised nimesid. 
+Firmasid, mille toodangut me ise igapäevaselt kasutame ja imetleme. Hea tunne on ju mõelda, et omad osa Apple-st, 
+Teslast või McDonaldsist. 
 
 ### Millega peab arvestama USAsse investeerimisel.
 
@@ -48,7 +48,7 @@ tegeliku kursi järgi. Pank pakub sulle **X** dollarit **Y** euro eest ja näita
 tegelikult kaotad tuleb sul endal välja arvutada.
 
 Sellele lisaks tuleb arvestada, et valuutahinnad kõiguvad igapäevaselt. Nii võib juhtuda, et dollari odavnemisel
-kaotad oma protfelliga eurodes väärtust isegi kui aktsiaportfell dollarites tõuseb või vastupidi. 
+kaotad oma portfelliga eurodes väärtust isegi kui aktsiaportfell dollarites tõuseb või vastupidi. 
 
 ### Tehingutasud on pisut kõrgemad kui Eestisse investeerides
 
@@ -79,11 +79,11 @@ rohkematele riskidele avatud kui kodumaine omand või sissetulek.
 
 ### Vali pank kuhu teed oma investeerimiskonto
 
-Vali omale madalate tasudega sobiv pank, ning pea meeles valides kontrollida ka järgnevat:
+Vali omale madalate tasudega sobiv pank, ning pea meeles valikut tehes kontrollida ka järgnevat.
 
 #### Residentsustõend W-8BEN
 
-Peaksid tegema kindlaks, kas sinu valitud pank toetab **W-8BEN** residentsustõendi esitamist USA-sse. **W-8BEN** on maksublankett, 
+Peaksid tegema kindlaks, kas sinu valitud pank toetab **W-8BEN** residentsustõendi esitamist USA-sse. **W-8BEN** on dokument, 
 mis aitab sul vältida USAst tuleva sissetuleku topeltmaksustamist. Sisuliselt tähendab see seda, et kui investeerida ilma
 **W-8BEN**'ita, siis kõikide USA börsil olevate firmade dividendidelt peetakse kinni **30%** enne kui need sinuni jõuavad.
 Kui aga **W-8BEN** täita, siis peetakse kinni vaid **15%**. Selline süsteem on loodud USA ja teiste maade (sh Eesti) vahelise 
@@ -101,7 +101,7 @@ Niisugused piirangud investeerimiskontol on loodud selleks, et sul lõpuks oleks
 lihtne ja ei peaks tegema mingeid keerulisi arvutusi, et oma investeerimiskäigud eraldada igapäevastest tegemistest.
 
 Investeerimiskonto lubab sul teenitud tulult jätta maksud maksmata, kuni otsustad raha välja võtta. Ametlikult nimetatakse
-seda maksukohustuse edasilükkamiseks. Sisuliselt toimib see nii, et kui maksad investeerimiskontole näiteks **10000€** sisse, 
+seda maksukohustuse edasilükkamiseks. Sisuliselt toimib see nii, et kui maksad investeerimiskontole, näiteks, **10000€** sisse, 
 siis võid sellega majandada ja sellega omale raha juurde teenida niikaua kuni tahad, kasvõi üle mitmekümne aasta. Mingit
 maksukohustust sul ei teki. Maksukohustus hakkab alles siis tekkima kui hakkad investeerimiskontolt raha välja võtma.
 Esimese väljavõetud **10000€**, praeguse näite puhul, on sinujaoks tulumaksuvaba, kuna sa oled sellelt juba kunagi maksud maksnud.
@@ -158,11 +158,11 @@ väärtuses **aktsia hind** x **aktsia kogus** + **tehingutasud**.
 ##### Mida üldse aktsia hind näitab?
 
 Kui Googlesse kirjutada **$AAPL** siis leiab sealt Apple aktsiahinna tänase graafiku ja mingi lõpliku hinna, näiteks **117.34** USD. 
-Mida see hind siis näitab? Tegemist on viimase õnnestunud tehingu hinnaga. See ei tähenda seda, et sa saad praegusel
+Mida see hind siis näitab? Tegemist on viimase õnnestunud tehingu ühe aktsia hinnaga. See ei tähenda seda, et sa saad praegusel
 hetkel selle hinnaga osta või müüa, vaid see näitab puhtalt viimast tehingut. See on umbes sama nagu möödunud kuu Tallinna korterite 
 tehingute hinnastatistika. Näitab, mis turul tehti ja annab aimu, mis hinnad turul on, aga ei näita saadaolevaid kortereid.
 
-Reaalselt, aga on **NYSE** turg nii "paks" ja seal on nii palju osalejaid, et selle viimase näidatud hinna tehingu limiidina 
+Reaalselt, aga on **NYSE** börs nii priske ja seal on nii palju osalejaid, et selle viimase näidatud hinna tehingu limiidina 
 kasutades võid vabalt oma tehingu tehtud saada päeva jooksul.  
 
 ##### Turuhinnaga tehing
@@ -177,8 +177,9 @@ Limiithinnaga tehing tähendab, et sa paned orderi mingi kindla aktsiasumma peal
 Ostu puhul tähendab see seda, et kui keegi pakub oma aktsiaid madalama hinnaga kui sinu määratud limiit, siis sul 
 tekib võimalus need ära osta. Kui piisavalt suurt pakkumist pole, siis võib ka juhtuda, 
 et keegi teine ostab need ära ja kuigi aktsiahind käis korraks allpool sinu pandud limiiti, siis ei olnud ikkagi 
-võimalik tehingut täita. Müügi puhul tähendab limiit kõige kõrgemat hinda, mida sa aktsia kohta oled nõus maksma. 
-Võid ka saada odavamalt kätte, kui turul on pakkumine ja surve hinnaalanduseks.
+võimalik tehingut täita. Võid ka saada limiidist odavamalt kätte, kui turul on pakkumine ja surve hinnaalanduseks. 
+Müügi puhul tähendab limiit kõige madalamat hinda, mille eest sa oled nõus aktsia ära müüma. 
+
 
 Tegelik aktsiaturu tehingute kokkusobitamine turu sisemuses on väga keeruline teema, millest ma pikemalt ei räägiks, kuid
 sellest võid lähemalt lugeda huvi korral [siit](https://www.investopedia.com/ask/answers/06/brokerandmarketmaker.asp).
@@ -188,7 +189,7 @@ Pank võib pakkuda orderi kehtivust tänase päeva või mitme päeva peale. Kui 
 pole limiidi tõttu saadud tehingut tehtud, siis order päeva lõpus tühistatakse. Kas tühistamisega seondub mingisuguseid 
 tasusid sõltub ilmselt konkreetsest pangast.
 
-Võimalik on ka oma order sisestada eelturule (premarket), mis tähendab, et saad kaubelda väljaspool turu lahtiolekuaegu. 
+Võimalik on ka oma order sisestada eelturule (premarket), mis tähendab, et saad kaubelda väljaspool börsi lahtiolekuaegu. 
 Eelturul on rohkem volatiilsust, kuna seal on vähe osalejaid. Üldiselt peetakse eelturgu riskantseks, aga kui panna sinna
 soovitud limiithinnaga tehing, siis ma ei näe põhjust, miks tehing peaks olema kuidagi riskantsem kui päevasel turul osalemine.
 Suurim probleem eelturul on ilmselt see, et viimati täidetud tehingute hinnad võivad olla petlikud. Eelturul pole piisavalt 
@@ -209,7 +210,7 @@ Soovin osta Apple Inc aktsiaid ja mul on **2000€** selleks kontol. Esiteks arv
 järgi dollariteks. Ilmselt ei pea neid käsitsi vahetama, vaid pank teeb selle lõpuks automaatselt tehingu ajal.
 Mina saan hetkekursi järgi **~$2371.33**.
 
-Nüüd otsin ma Apple'i *ticker*-i USA turul. Kiire googeldamine annab vastuseks **AAPL** ja börsiks NASDAQ.  
+Nüüd otsin ma välja Apple'i *ticker*-i USA börsil. Kiire googeldamine annab vastuseks **AAPL** ja börsiks NASDAQ.  
 
 Seejärel sisestan ma Googlesse **$AAPL** ja saan sealt, et hetkel on viimase tehingu hind **$117.34** aktsia kohta.
 
