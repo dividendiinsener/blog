@@ -215,12 +215,14 @@ Seega saan ma **20 aktsiat**. Kuna poolikuid aktsiaid ma osta ei saa, siis see *
 kulub mul ära tehingutasudeks.
  
 Täidangi järgmiseks ära panga poolt presenteeritud lahtrid:
-
+ 
+```
 Aktsia sümbol: **AAPL (NASDAQ)**
 Kogus: **20**  
 Tehingu tüüp: **Limiithinnaga tehing**
 Hind aktsia kohta: **117.34**
 Kestvus: **päeva lõpuni**
+```
 
 Saadan täidetud blanketi pangale nupuvajutusega, digiallkirjastan tehingu ja jään ootele.
 
