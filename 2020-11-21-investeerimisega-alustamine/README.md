@@ -233,6 +233,9 @@ Mis võib valesti minna? Võib juhtuda, et sul jääb raha puudu, et maksta tehi
 aktsiate arvu vähemaks tõmmata või aktsia hinda allapoole viia pisut (lootes, et tehing ikkagi tehtud saab).
 
 ### Tuludeklaratsiooni esitamine
+
+![maksud](./accounting-calculator.jpg) 
+
 Uue aasta alguses, kui toimub tuludeklaratsiooni esitamine, on sul vaja ka oma investeerimiskonto deklareerida.
 Pank peaks lubama esitada sinu investeerimiskonto **EMTA**-le (Eesti maksu ja tolliametile) automaatselt, st ilma, et 
 sa peaks hakkama käsitsi **EMTA** lehel numbreid sisestama. Selleks on panga lehel ilmselt mõni funktsioon.
