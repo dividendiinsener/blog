@@ -42,7 +42,7 @@ oma dollarid jälle ilmselt tagasi eurodeks vahetada ja veelkord maksta väike t
 
 Antud kursil tasub silma peal hoida, kuna omast kogemusest tean, et valuutavahetus on kallim ja suurem väljaminek kui 
 tehingu ja hoiusetasud. Üldiselt pank ei ütle sulle, mitu eurot või dollarit sa reaalselt kaotad summa vahetusest hetke 
-tegeliku kursi järgi. Pank pakub sulle X dollarit Y euro eest ja näitab tehingu kurssi ka, aga see palju sa tehingust 
+tegeliku kursi järgi. Pank pakub sulle **X** dollarit **Y** euro eest ja näitab tehingu kurssi ka, aga see palju sa tehingust 
 tegelikult kaotad tuleb sul endal välja arvutada.
 
 Sellele lisaks tuleb arvestada, et valuutahinnad kõiguvad igapäevaselt. Nii võib juhtuda, et dollari odavnemisel
@@ -54,9 +54,9 @@ Eesti pangad on teinud baltikumi aktsiate ostmise väga mugavaks ja paljud panga
 baltikumi aktsiatehingute eest üldse tasu. USA aktsiaid ostes maksad tehingu pealt kõrgemat tasu kui baltikumi 
 aktsiaid ostes.
 
-Selle artikli kirjutamise hetkel (2020-11-21) võtavad pangad USA börsil tehtud tehingu eest järgmist tasu: 
+Selle artikli kirjutamise hetkel (**2020-11-21**) võtavad pangad USA börsil tehtud tehingu eest järgmist tasu: 
 
-| PANK | Tehingu tasu | haldustasu (Kuni **30000 €** portfell)  | Tehingu tühistamine (enne täideviimist) |
+| PANK | Tehingu tasu | haldustasu (Kuni 30000 € portfell)  | Tehingu tühistamine (enne täideviimist) |
 | ---- | ------------ | ----------- | ---------- |
 | [LHV](https://www.lhv.ee/et/hinnakiri)                                         | 11 € + 0,3%     | 0,025% kuus, min 2 €, lisandub käibemaks | Tasuta |
 | [Swedbank](https://www.swedbank.ee/private/home/more/pricesrates?language=EST) | 0,18%, min 18 € | tasuta                                   | Tehingutasu |
@@ -81,7 +81,7 @@ Vali omale madalate tasudega sobiv pank, ning pea meeles valides kontrollida ka 
 
 Peaksid tegema kindlaks, kas sinu valitud pank toetab **W-8BEN** residentsustõendi esitamist USA-sse. **W-8BEN** on maksublankett, 
 mis aitab sul vältida USAst tuleva sissetuleku topeltmaksustamist. Sisuliselt tähendab see seda, et kui investeerida ilma
-**W-8BEN**'ita, siis kõikide USA börsil olevate firmade dividendidelt peetakse kinni 30% enne kui need sinuni jõuavad.
+**W-8BEN**'ita, siis kõikide USA börsil olevate firmade dividendidelt peetakse kinni **30%** enne kui need sinuni jõuavad.
 Kui aga **W-8BEN** täita, siis peetakse kinni vaid **15%**. Selline süsteem on loodud USA ja teiste maade (sh Eesti) vahelise 
 kokkuleppena. Blanketi täitmine on iseenesest lihtne ja tõendab vaid kokkuvõttes seda, et elad Eestis. **W-8BEN**'i on vaja 
 uuendada iga **3** aasta tagant. Minuteada on antud lepingu esitamine eraisikust investorile tasuta.
