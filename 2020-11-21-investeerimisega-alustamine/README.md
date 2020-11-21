@@ -121,11 +121,11 @@ on tema *ticker* (eesti keeles *sümbol*).
 #### Aktsia ticker (sümbol) 
 Aktsia ticker on tavaliselt paaritäheline suurte tähtedega kirjutatud lühend, mis kehtib ühel kindlal börsil.
 
-| Nimi | *ticker* (**NYSE**) |
+| *ticker* (**NYSE**) | Nimi |
 |------|----------|
-| McDonald's Corp | MCD |
-| International Business Machines Corporation | IBM |
-| Corning Incorporated | GLW | 
+| MCD |  McDonald's Corp |
+| IBM | International Business Machines Corporation | 
+| GLW | Corning Incorporated | 
 
 
 Võib juhtuda, et aktsia on esindatud mitmel börsil ja neil on erinevad *ticker*-id kasutusel.
@@ -150,7 +150,7 @@ ja aktsia *ticker*, näiteks **$AAPL**.
 Järgmisena on sul vaja teada kogust ja hinda. Mitu aktsiat soovid osta? Üldiselt tuleb kirjutada lahtrisse soovitud aktsiate kogus
 ja soovitud hind(limiit) dollarites ühe aktsia kohta. Võid ka osta turuhinnaga, siis ei pea ise hinda sisestama, vaid maakler paneb ise su 
 tehingu kokku vastavalt sellele, mis seis parasjagu turul on. Loomulikult peab kontol olema piisavalt raha, et maksta ära summa 
-väärtuses **aktsia hind** x **aktsia kogus** + tehingutasud.
+väärtuses **aktsia hind** x **aktsia kogus** + **tehingutasud**.
 
 ##### Mida üldse aktsia hind näitab?
 
