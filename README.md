@@ -12,6 +12,7 @@ on siia kirja pandud eesmärgiga jagada mõtteid ja ei ole järgimiseks.
 
 ### Viimased sissekanded
 
+* [Eraisikuna investeerimisega alustamine - kuidas investeerida USA börsil](2020-11-21-investeerimisega-alustamine)
 * [01.11.2020 Oktoobri kokkuvõte](./2020-11-01-oktoobrikokkuvote/)
 * [03.10.2020 Septembri kokkuvõte](./2020-10-03-septembrikokkuvote/)
 * [03.09.2020 Augusti kokkuvõte](./03-09-2020-augustikokkuvote/)
