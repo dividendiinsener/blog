@@ -121,18 +121,18 @@ on tema *ticker* (eesti keeles *sümbol*).
 #### Aktsia ticker (sümbol) 
 Aktsia ticker on tavaliselt paaritäheline suurte tähtedega kirjutatud lühend, mis kehtib ühel kindlal börsil.
 
-Näiteks:
-
-| Nimi | *ticker* (NYSE) |
+| Nimi | *ticker* (**NYSE**) |
 |------|----------|
 | McDonald's Corp | MCD |
 | International Business Machines Corporation | IBM |
 | Corning Incorporated | GLW | 
 
+
 Võib juhtuda, et aktsia on esindatud mitmel börsil ja neil on erinevad *ticker*-id kasutusel.
 Nii on näiteks Nokia esindatud **NYSE** ja Helsinki(**HEL**) börsil erineva sümboliga.
 
-| Nimi | *ticker* (NYSE) | *ticker* (HEL) |
+
+| Nimi | *ticker* (**NYSE**) | *ticker* (**HEL**) |
 |------|----------|-----------------|
 | Nokia Oyj | NOK | NOKIA |
 
