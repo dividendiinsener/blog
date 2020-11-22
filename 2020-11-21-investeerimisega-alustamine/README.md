@@ -4,9 +4,9 @@ _Avaldatud 21.11.2020_
 ![Stock market](./stock-market.jpg) 
 
 New Yorki börs (**NYSE**) ja **NASDAQ** on kaks maailma suurimat börsi, mis paiknevad New Yorki finantsrajoonis.
-Ameerika pakub tohutult laia aktsiavalikut kuhu ka tavaline eestlane tugitoolis lõsutades investeerida saab 
-paari nupuvajutusega. Järgnev artikkel üritab natuke valgustada, et mis üldse on vaja teha ja millega arvestada 
-investeerides Ameerikasse. Artikkel ei ürita selgitada investeerimisstrateegiaid või anda nõu milliseid aktsiaid osta.
+Ameerika pakub tohutult laia aktsiavalikut kuhu ka tavaline eestlane saab tugitoolis lõsutades paari nupuvajutusega investeerida. 
+Järgnev artikkel üritab natuke valgustada, et mis üldse on vaja teha ja millega arvestada investeerides Ameerikasse. 
+Artikkel ei ürita selgitada investeerimisstrateegiaid või anda nõu milliseid aktsiaid osta.
    
 ### Miks üldse Ameerikasse investeerida?
 
