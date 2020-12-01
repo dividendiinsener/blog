@@ -6,7 +6,7 @@ _Avaldatud 01.12.2020_
 Novembris toimus turgudel jälle midagi rallitaolist. 
 Kui mu praegune portfoolio oli eelmine kuu veel veidi miinuses, siis praeguseks juba tõusnud 4000 dollarit plusspoolele. 
 Kõige suurem tõus on tulnud liitiumi-, katalüsaatorite- ja broomitootja, Albemarle (**ALB**), positsioonist. Veel 
-tasub märkida, et keset pandeemia paanikat ostetud Sysco (SYY) on teinud aprillist saati juba pea 83% tõusu. 
+tasub märkida, et keset pandeemia paanikat ostetud Sysco (**SYY**) on teinud aprillist saati juba pea 83% tõusu. 
 
 ### Vaatame rahakotti ka?
 Minu aktsiaportfell oli esimese novembri seisuga selline:
