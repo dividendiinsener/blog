@@ -1,4 +1,4 @@
-## Oktoobri kokkuvõte
+## Novembri kokkuvõte
 _Avaldatud 01.12.2020_
 
 ### Kiire ülevaade
