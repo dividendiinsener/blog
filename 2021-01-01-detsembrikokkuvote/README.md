@@ -88,4 +88,4 @@ arvestanud sinna viimaste aastate korterihinna tõusu, vaid see seisab mul paiga
 mis viimati tehtud sai korteriostu ajal. Igasugu muud kodutehnikat ja kulla ning hõbedavarusid ma samuti ei viitsi arvestada, 
 mis potentsiaalselt seda väärtust tõstaksid kui peaks garaažimüügi tegema. 
 
-PS: Kui on tahtmine kommenteerida, siis saab seda teha Github'i konto abil [siin](https://github.com/dividendiinsener/blog/issues/15)
+PS: Kui on tahtmine kommenteerida, siis saab seda teha Github'i konto abil [siin](https://github.com/dividendiinsener/blog/issues/17)
