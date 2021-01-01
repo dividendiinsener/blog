@@ -3,9 +3,9 @@ _Avaldatud 01.01.2021_
 
 ### Veelgi paremat uut aastat!
 
-Samal ajal kui koroona loob uut normaalsust, hävitab turismisektorit ja pöörates peapeale kõik arusaamad, mis veel aasta tagasi 
-meile iseenesest mõistetav tundusid, on üldine aktsiaturg rallinud uute kõrgusteni ja loonud oportunistidele palju võimalusi rikastumiseks.  
-Ausaltöeldes võiks öelda, et veel paremat aastat on raske tahta. Kui märtsis oli veel tunne, et raha põleb heleda leegiga ja
+Samal ajal kui koroona loob uut normaalsust, hävitab turismisektorit ja pöörab peapeale kõik arusaamad, mis veel aasta tagasi 
+meile iseenesest mõistetavad tundusid, on üldine aktsiaturg rallinud uute kõrgusteni ja loonud oportunistidele palju võimalusi rikastumiseks.  
+Ausaltöeldes võiks öelda, et veel paremat aastat on raske soovida. Kui märtsis oli veel tunne, et raha põleb heleda leegiga ja
 kiiresti nagu pruuniks kuivanud jõulukuusk, siis tegelikult alates märtsi lõpust on toimunud turgudel hoopis 
 järjepidev ja järsk tõus uute tippudeni, milletaolist ei mäleta ilmselt enamik investoreist. **S&P 500** indeks on lausa **15%** kõrgemal 
 kui aasta tagasi. Need investorid, kellel oli vaba vahendeid
