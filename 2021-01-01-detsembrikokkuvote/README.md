@@ -20,7 +20,7 @@ Kui toimub kasv, siis on see ilmselt väiksem kui eelmisel aastal.
 
 ### Kiire ülevaade
 
-Detsember aktsiaturud kasvasid kergelt ja mingeid šhokke turul polnud. Oli jõuludevääriliselt stabiilne ja rahulik, positiivne kuu.
+Detsembris aktsiaturud kasvasid kergelt ja märgatavaid šokke turul polnud. Oli jõuludevääriline stabiilne, rahulik ja positiivne kuu.
 Detsembris ostsin juurde **$LMT** (Lockheed Martin) aktsiat (duubeldades oma positsiooni), 
 millel näen endiselt suurt potentsiaali tulevikuks ja mille *dividend yield* on hetkel atraktiivne **(2.93%)**. 
 Kui see firma ei ütle sulle midagi, siis tegemist on USA kosmose-, relva- ja lennutööstuse "lipulaevaga", mis toodab 
