@@ -12,6 +12,10 @@ on siia kirja pandud eesmärgiga jagada mõtteid ja ei ole järgimiseks.
 
 ### Viimased sissekanded
 
+#### 2021
+* [01.12.2020 Detsembri kokkuvõte / Aasta kokkuvõte](./2021-01-01-detsembrikokkuvote/)
+
+#### 2020
 * [01.12.2020 Novembri kokkuvõte](./2020-12-01-novembrikokkuvote/)
 * [21.11.2020 Eraisikuna investeerimisega alustamine - kuidas investeerida USA börsil](2020-11-21-investeerimisega-alustamine)
 * [01.11.2020 Oktoobri kokkuvõte](./2020-11-01-oktoobrikokkuvote/)

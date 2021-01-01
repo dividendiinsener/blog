@@ -9,7 +9,7 @@ Kõige suurem tõus on tulnud liitiumi-, katalüsaatorite- ja broomitootja, Albe
 tasub märkida, et keset pandeemia paanikat ostetud Sysco (**SYY**) on teinud aprillist saati juba pea 83% tõusu. 
 
 ### Vaatame rahakotti ka?
-Minu aktsiaportfell oli esimese novembri seisuga selline:
+Minu aktsiaportfell oli esimese detsembri seisuga selline:
 
 | Ticker | Hind | Ostuhind        | Kogus    | Muutus         | Kasum       | Väärtus    |
 |------|--------|-----------------|----------|----------------|-------------|------------|
