@@ -13,7 +13,8 @@ on siia kirja pandud eesmärgiga jagada mõtteid ja ei ole järgimiseks.
 ### Viimased sissekanded
 
 #### 2021
-* [01.12.2020 Detsembri kokkuvõte / Aasta kokkuvõte](./2021-01-01-detsembrikokkuvote/)
+* [02.02.2021 Jaanuari kokkuvõte](./2021-02-02-jaanuarikokkuvote/)
+* [01.01.2021 Detsembri kokkuvõte / Aasta kokkuvõte](./2021-01-01-detsembrikokkuvote/)
 
 #### 2020
 * [01.12.2020 Novembri kokkuvõte](./2020-12-01-novembrikokkuvote/)
