@@ -1,5 +1,6 @@
 ## Eraisikuna investeerimisega alustamine - kuidas investeerida USA börsil
-_Avaldatud 21.11.2020_
+_Avaldatud 2020.11.21_,
+_Täiendatud 2021.03.07_
 
 ![Stock market](./stock-market.jpg) 
 
@@ -56,15 +57,15 @@ Eesti pangad on teinud baltikumi aktsiate ostmise väga mugavaks ja paljud panga
 baltikumi aktsiatehingute eest üldse tasu. USA aktsiaid ostes maksad tehingu pealt kõrgemat tasu kui baltikumi 
 aktsiaid ostes.
 
-Selle artikli kirjutamise hetkel (**2020-11-21**) võtavad pangad USA börsil tehtud tehingu eest järgmist tasu: 
+(Täiendatud `2021.03.07`). Praegusel hetkel võtavad Eesti pangad USA börsil tehtud tehingu eest järgmist tasu: 
 
-| PANK | Tehingu tasu | haldustasu (Kuni 30000 € portfell)  | Tehingu tühistamine (enne täideviimist) |
+| PANK | Tehingu tasu | haldustasu   | Tehingu tühistamine (enne täideviimist) |
 | ---- | ------------ | ----------- | ---------- |
-| [LHV](https://www.lhv.ee/et/hinnakiri)                                         | 11 € + 0,3%     | 0,025% kuus, min 2 €, lisandub käibemaks | Tasuta |
-| [Swedbank](https://www.swedbank.ee/private/home/more/pricesrates?language=EST) | 0,18%, min 18 € | tasuta                                   | Tehingutasu |
-| [SEB](https://www.seb.ee/hinnakiri)                                            | 14 € + 0,2% (0,015%) | 0,015% kuus                         | min arveldustasu või tegelikud kulud |
+| [LHV](https://www.lhv.ee/et/hinnakiri)                                         | 0,14%, miinimum 9 € | Eraisik kuni 50 000 € tasuta | Tasuta |
+| [Swedbank](https://www.swedbank.ee/private/home/more/pricesrates?language=EST) | 0,14%, miinimum 9,90 € | tasuta                                   | Tehingutasu |
+| [SEB](https://www.seb.ee/hinnakiri)                                            | 0,15%, min 15 eurot (aga mitte vähem kui 0,015 USD aktsia kohta) |  kuni 35 000 eurot	tasuta  | Min arveldustasu või tegelikud kulud |
 
-Antud tabel on vaid näitlik lihtsustus, tegelikud tingimused võivad tabelist erineda või ajajooksul muutuda.
+**NB:** Antud tabel on vaid näitlik lihtsustus, tegelikud tingimused võivad tabelist erineda või ajajooksul muutuda.
 
 ### Geopoliitilised riskid
 
@@ -252,6 +253,27 @@ Investeerimiskonto maksuaruandes ei deklareerita aktsiate soetamise või võõra
 Saadud (juba maksustatud) dividendid deklareeritakse investeerimiskonto sissemaksena, vältimaks topeltmaksustamist.
 Juhul kui mingil põhjusel dividendid saabuvad ilma maksustamata, siis oleks mõistlik neid mitte deklareerida, nendelt
 makstakse siis tulumaks kunagi hiljem kui see raha lahkub investeerimiskontolt.
+
+#### "Lugesin, et ostu- ja müügitehingutasud tuleb väljamaksena deklareerida."
+
+`Täiendatud: 2021.03.07`
+
+Tundub, et hetkel liigub natuke vastukäivat infot selle kohta, kas aktsiate ostu- ja müügitehingul makstud teenustasu
+tuleb investeerimiskontolt väljakandena deklareerida, ehk siis maksustada antud osa tulumaksuga.
+
+LHV pank [kirjutab](https://www.lhv.ee/et/kkk/deklareerimine) nii:
+
+```
+Millised investeerimiskontolt võetavad tasud tuleb järgmisel aastal tuludeklaratsioonis deklareerida?
+
+Väljamaksetena tuleb deklareerida kõik väärtpaberite ostu ja müügiga otseselt mitteseotud tasud (haldustasud, 
+intressimaksed, infotasud, aga ka kõik raha väljakanded). Investeerimiskontol tehtud väärtpaberite ostu-müügitehinguid 
+tuludeklaratsioonis deklareerima ei pea.
+```
+
+Mina saan sellest nii aru, et tehingutasud aktsiate ostmisel ja müümisel siiski ei lähe investeerimiskontolt väljamaksena 
+arvesse. Nii olen ma ka siiamaani (~8-9 aastat) oma deklaratsiooni teinud ja keegi pole veel siiamaani kobisenud. 
+Küll, aga tundub, et kontohaldustasud tuleks siiski väljamaksena deklareerida kui neid makstud on.
 
 -------
 
