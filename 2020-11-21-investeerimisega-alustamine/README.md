@@ -244,7 +244,7 @@ sa peaks hakkama käsitsi **EMTA** lehel numbreid sisestama. Selleks on panga le
 
 Maksudeklaratsioonis peaksid nägema oma sissekantud ja väljakantud raha investeerimiskontolt. 
 Tuludeklaratsiooni sektsioon, kuhu antud andmed saabuvad kannab nime "Tulu finantsvaralt". 
-Kui oled rohkem sissekandnud, siis peaks jääma seal "Edasikantav summa" lahtis olev jääk miinusesse. 
+Kui oled rohkem sissekandnud, siis peaks jääma seal "Edasikantav summa" lahtris olev jääk miinusesse. 
 See jääk on see, mis tõstetakse üle järgmisesse aastasse ja mis lubab sul ka järgmine aasta raha ilma tulumaksu 
 maksmata välja võtta (kuni sissepandud summa pole ületatud). Järgmine aasta peaksid nägema oma eelmisest aastast
 edasi kantud summat lahtris "Eelmisest perioodist edasikantud summa".
