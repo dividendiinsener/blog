@@ -51,7 +51,7 @@ tegelikult kaotad tuleb sul endal välja arvutada.
 Sellele lisaks tuleb arvestada, et valuutahinnad kõiguvad igapäevaselt. Nii võib juhtuda, et dollari odavnemisel
 kaotad oma portfelliga eurodes väärtust isegi kui aktsiaportfell dollarites tõuseb või vastupidi. 
 
-### Tehingutasud on pisut kõrgemad kui Eestisse investeerides
+#### Tehingutasud on pisut kõrgemad kui Eestisse investeerides
 
 Eesti pangad on teinud baltikumi aktsiate ostmise väga mugavaks ja paljud pangad ei võta viimasel ajal 
 baltikumi aktsiatehingute eest üldse tasu. USA aktsiaid ostes maksad tehingu pealt kõrgemat tasu kui baltikumi 
@@ -67,12 +67,12 @@ aktsiaid ostes.
 
 **NB:** Antud tabel on vaid näitlik lihtsustus, tegelikud tingimused võivad tabelist erineda või ajajooksul muutuda.
 
-### Geopoliitilised riskid
+#### Geopoliitilised riskid
 
-USA näol on tegu võõra maaga ja nii meie kui nende pool on teatud poliitilised ja majanduslikud riskid. Võib juhtuda, 
-et mõni otsus mõjutab kahjulikult sinu omandit või sissetulekut välismaal. Seda vast ei suuda keegi ette näha, 
-mis täpselt muutuda võib, aga tasub lihtsalt meeles pidada, et välismaine omand või sissetulek võib olla 
-rohkematele riskidele avatud kui kodumaine omand või sissetulek.      
+USA näol on tegu võõra maaga ja nii meie kui nende pool on teatud poliitilised ja majanduslikud riskid. Võib juhtuda,
+et mõni otsus mõjutab kahjulikult sinu omandit või sissetulekut välismaal. Seda vast ei suuda keegi ette näha,
+mis täpselt muutuda võib, aga tasub lihtsalt meeles pidada, et välismaine omand või sissetulek võib olla
+rohkematele riskidele avatud kui kodumaine omand või sissetulek.
 
 ## Millest alustada?
 
