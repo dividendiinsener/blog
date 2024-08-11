@@ -12,6 +12,9 @@ on siia kirja pandud eesmärgiga jagada mõtteid ja ei ole järgimiseks.
 
 ### Viimased sissekanded
 
+#### 2024
+* [28.08.2024 220€ kuus passiivset sissetulekut!](./2024-08-11-maolentagasi/)
+
 #### 2021
 * [28.03.2021 Veebruari kokkuvõte - Lasin oma portfelli õhku!](./2021-03-28-veebruarikokkuvote/)
 * [02.02.2021 Jaanuari kokkuvõte](./2021-02-02-jaanuarikokkuvote/)
