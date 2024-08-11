@@ -31,12 +31,12 @@ kasvaks.
 
 ### Palju ma aegade algusest saati olen üldse investeerimisega kasumis või kahjumis?
 
-Alustasin investeerimis 2012. aasta detsembris. LHV Kokkuvõte näitab, et olen kontole sisse kandnud **124283.30€** 
-ja välja kandnud **52978.00€**. See tähendab, et olen justkui panustanud kontole **71305.3€** enda raha. Hetkel on mu 
-LHV kontol väärtust **92823.67€**. Seega olen investeerimisega kokkuvõttes **21518.37€** võrra kasumis. 
+Alustasin investeerimisega 2012. aasta detsembris. LHV Kokkuvõte näitab, et olen kontole sisse kandnud **124283.30€** 
+ja välja kandnud **52978.00€**. See tähendab, et olen justkui panustanud kontole **71305.3€** enda raha puhtalt. Hetkel 
+on mu LHV kontol väärtust **92823.67€**. Seega olen investeerimisega kokkuvõttes **21518.37€** võrra kasumis. 
 
 Lisaks tuleb veel välja, et ma olen selle aja jooksul maksnud LHV'le lausa umbes **6400€** eest teenustasusid.
-(Mõtlemiskoht) :)
+(Mõttekoht) :)
 
 
 ### Kuidas mu passiivne sissetulek välja näeb?
