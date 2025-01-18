@@ -12,6 +12,9 @@ on siia kirja pandud eesmärgiga jagada mõtteid ja ei ole järgimiseks.
 
 ### Viimased sissekanded
 
+#### 2025
+* [100 000€-ne portfell!](./2025-01-18-sadatuhateurot/)
+
 #### 2024
 * [28.08.2024 220€ kuus passiivset sissetulekut!](./2024-08-11-maolentagasi/)
 
